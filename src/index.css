@@ -1,0 +1,55 @@
+@import 'tailwindcss';
+
+:root {
+  --ink: #1c241e;
+  --paper: #f3f0e8;
+  --paper-deep: #e6e1d4;
+  --leaf: #1a4d3a;
+  --leaf-bright: #2a7a5c;
+  --accent: #c45c26;
+  --mist: #d8e4dc;
+  --ok: #1f6b45;
+  --warn: #8a4b1f;
+  --shadow: rgba(28, 36, 30, 0.12);
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background:
+    radial-gradient(ellipse 80% 50% at 10% -10%, rgba(42, 122, 92, 0.18), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(196, 92, 38, 0.12), transparent 50%),
+    linear-gradient(165deg, #f7f4ec 0%, #ebe6da 45%, #e2ebe6 100%);
+  background-attachment: fixed;
+}
+
+h1,
+h2,
+h3,
+.font-display {
+  font-family: 'Fraunces', Georgia, serif;
+  letter-spacing: -0.02em;
+}
+
+button,
+a {
+  touch-action: manipulation;
+}
+
+#root {
+  min-height: 100dvh;
+}
