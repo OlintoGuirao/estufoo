@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import type { OptionKey, Question } from '../data/types'
+import type { OptionKey, QuizQuestion } from '../data/types'
 import { ScratchPad } from './ScratchPad'
 
-const OPTION_KEYS: OptionKey[] = ['A', 'B', 'C', 'D', 'E']
+const ALL_KEYS: OptionKey[] = ['A', 'B', 'C', 'D', 'E']
 
 type Feedback =
   | { kind: 'idle' }
@@ -10,13 +10,15 @@ type Feedback =
   | { kind: 'wrong'; steps: string[] }
 
 type Props = {
-  question: Question
+  question: QuizQuestion
   mode: 'one' | 'scroll'
 }
 
 export function QuestionCard({ question, mode }: Props) {
   const [selected, setSelected] = useState<OptionKey | null>(null)
   const [feedback, setFeedback] = useState<Feedback>({ kind: 'idle' })
+  const optionKeys = ALL_KEYS.filter((key) => question.options[key])
+  const label = question.number ?? question.id
 
   function confirm() {
     if (!selected) return
@@ -39,15 +41,27 @@ export function QuestionCard({ question, mode }: Props) {
         mode === 'one' ? '' : 'mb-8'
       }`}
     >
+      {question.section && (
+        <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-[var(--ink)]/45">
+          {question.section}
+        </p>
+      )}
       <p className="mb-1 text-sm font-semibold uppercase tracking-wide text-[var(--accent)]">
-        Questão {question.id}
+        Questão {label}
       </p>
+
+      {question.passage && (
+        <blockquote className="mb-4 rounded-2xl border-l-4 border-[var(--leaf)]/40 bg-[var(--mist)]/60 px-4 py-3 text-base leading-relaxed text-[var(--ink)]/85">
+          {question.passage}
+        </blockquote>
+      )}
+
       <h2 className="font-display text-xl font-semibold leading-snug text-[var(--ink)] sm:text-2xl">
         {question.statement}
       </h2>
 
-      <div className="mt-5 grid gap-3" role="radiogroup" aria-label={`Opções da questão ${question.id}`}>
-        {OPTION_KEYS.map((key) => {
+      <div className="mt-5 grid gap-3" role="radiogroup" aria-label={`Opções da questão ${label}`}>
+        {optionKeys.map((key) => {
           const active = selected === key
           return (
             <button

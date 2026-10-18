@@ -20,10 +20,16 @@ npm run preview
 
 ## Uso
 
-1. Na home, escolha **Fórmulas e macetes** ou um **Bloco A–G**.
-2. Em cada questão: leia o enunciado, marque A–E e confirme.
+1. Na home, escolha **Fórmulas e macetes**, um **Bloco A–G** ou um **Simulado** (ACS / Almoxarife).
+2. Em cada questão: leia o enunciado, marque a alternativa e confirme.
 3. Use o canvas de rascunho abaixo da questão (limpar, persistência por questão).
 4. Se errar, aparece o **passo a passo** — a letra correta **não** é revelada; você pode tentar de novo.
+
+Os 10 simulados autorais INDEPAC ficam em `content/simulados/` (fonte em Markdown). Para regenerar os dados do app:
+
+```bash
+node scripts/parse-simulados.mjs
+```
 
 ## PWA / tablet Android
 

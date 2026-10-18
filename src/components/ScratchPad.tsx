@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { clearScratch, loadScratch, saveScratch } from '../lib/scratchStorage'
 
 type Props = {
-  questionId: number
+  questionId: string | number
 }
 
 type Point = { x: number; y: number; pressure: number }

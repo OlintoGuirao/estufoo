@@ -1,6 +1,6 @@
 const PREFIX = 'estufoo-scratch-q-'
 
-export function loadScratch(questionId: number): string | null {
+export function loadScratch(questionId: string | number): string | null {
   try {
     return localStorage.getItem(`${PREFIX}${questionId}`)
   } catch {
@@ -8,7 +8,7 @@ export function loadScratch(questionId: number): string | null {
   }
 }
 
-export function saveScratch(questionId: number, dataUrl: string): void {
+export function saveScratch(questionId: string | number, dataUrl: string): void {
   try {
     localStorage.setItem(`${PREFIX}${questionId}`, dataUrl)
   } catch {
@@ -16,7 +16,7 @@ export function saveScratch(questionId: number, dataUrl: string): void {
   }
 }
 
-export function clearScratch(questionId: number): void {
+export function clearScratch(questionId: string | number): void {
   try {
     localStorage.removeItem(`${PREFIX}${questionId}`)
   } catch {
