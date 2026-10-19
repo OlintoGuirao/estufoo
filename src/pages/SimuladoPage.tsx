@@ -44,7 +44,7 @@ function SimuladoView({
           {simulado.cargo}
         </h1>
         <p className="mt-1 text-base text-[var(--ink)]/65">
-          {simulado.id} · 30 questões
+          {simulado.id} · {simulado.questions.length} questões
           {simulado.municipio ? ` · ${simulado.municipio}` : ''}
         </p>
       </header>

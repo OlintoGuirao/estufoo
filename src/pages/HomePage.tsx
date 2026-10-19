@@ -2,9 +2,46 @@ import { Link } from 'react-router-dom'
 import { studyBlocks } from '../data/blocks'
 import { simulados } from '../data/simulados'
 
+function SimuladoLinks({
+  items,
+  label,
+}: {
+  items: typeof simulados
+  label: string
+}) {
+  return (
+    <ul className="grid gap-3">
+      {items.map((sim, i) => (
+        <li key={sim.id}>
+          <Link
+            to={`/simulado/${sim.id}`}
+            className="flex min-h-16 items-center justify-between gap-4 rounded-2xl border border-[var(--leaf)]/15 bg-white/80 px-5 py-4 shadow-[0_8px_24px_var(--shadow)] transition hover:border-[var(--leaf)]/40 hover:bg-white active:scale-[0.99]"
+          >
+            <div>
+              <p className="font-display text-lg font-semibold text-[var(--leaf)]">
+                Simulado {i + 1} — {label}
+              </p>
+              <p className="text-sm text-[var(--ink)]/65">
+                {sim.id} · {sim.questions.length} questões · Português, matemática e
+                específicos
+              </p>
+            </div>
+            <span className="text-2xl text-[var(--accent)]" aria-hidden>
+              →
+            </span>
+          </Link>
+        </li>
+      ))}
+    </ul>
+  )
+}
+
 export function HomePage() {
   const acs = simulados.filter((s) => s.id.includes('acs'))
-  const almox = simulados.filter((s) => s.id.includes('almoxarife'))
+  const almox = simulados.filter(
+    (s) => s.id.includes('almoxarife') && !s.id.includes('superior'),
+  )
+  const almoxSuperior = simulados.filter((s) => s.id.includes('almoxarife-superior'))
 
   return (
     <div className="mx-auto max-w-3xl px-4 pb-16 pt-8 sm:px-6">
@@ -55,60 +92,27 @@ export function HomePage() {
           Simulados
         </h2>
         <p className="mb-4 text-base text-[var(--ink)]/65">
-          Provas autorais INDEPAC — 30 questões (A–D) com gabarito.
+          Provas autorais INDEPAC — alternativas A–D com gabarito.
         </p>
 
         <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--accent)]">
           Agente Comunitário de Saúde
         </h3>
-        <ul className="mb-8 grid gap-3">
-          {acs.map((sim, i) => (
-            <li key={sim.id}>
-              <Link
-                to={`/simulado/${sim.id}`}
-                className="flex min-h-16 items-center justify-between gap-4 rounded-2xl border border-[var(--leaf)]/15 bg-white/80 px-5 py-4 shadow-[0_8px_24px_var(--shadow)] transition hover:border-[var(--leaf)]/40 hover:bg-white active:scale-[0.99]"
-              >
-                <div>
-                  <p className="font-display text-lg font-semibold text-[var(--leaf)]">
-                    Simulado {i + 1} — ACS
-                  </p>
-                  <p className="text-sm text-[var(--ink)]/65">
-                    {sim.id} · Português, matemática e específicos
-                  </p>
-                </div>
-                <span className="text-2xl text-[var(--accent)]" aria-hidden>
-                  →
-                </span>
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <div className="mb-8">
+          <SimuladoLinks items={acs} label="ACS" />
+        </div>
 
         <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--accent)]">
           Auxiliar de Almoxarife
         </h3>
-        <ul className="grid gap-3">
-          {almox.map((sim, i) => (
-            <li key={sim.id}>
-              <Link
-                to={`/simulado/${sim.id}`}
-                className="flex min-h-16 items-center justify-between gap-4 rounded-2xl border border-[var(--leaf)]/15 bg-white/80 px-5 py-4 shadow-[0_8px_24px_var(--shadow)] transition hover:border-[var(--leaf)]/40 hover:bg-white active:scale-[0.99]"
-              >
-                <div>
-                  <p className="font-display text-lg font-semibold text-[var(--leaf)]">
-                    Simulado {i + 1} — Almoxarife
-                  </p>
-                  <p className="text-sm text-[var(--ink)]/65">
-                    {sim.id} · Português, matemática e específicos
-                  </p>
-                </div>
-                <span className="text-2xl text-[var(--accent)]" aria-hidden>
-                  →
-                </span>
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <div className="mb-8">
+          <SimuladoLinks items={almox} label="Almoxarife" />
+        </div>
+
+        <h3 className="mb-3 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--accent)]">
+          Almoxarife — Ensino Superior
+        </h3>
+        <SimuladoLinks items={almoxSuperior} label="Almoxarife Superior" />
       </section>
 
       <p className="mt-10 text-center text-sm text-[var(--ink)]/50">

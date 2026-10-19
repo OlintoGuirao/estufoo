@@ -58,8 +58,14 @@ function parseMeta(header, fallbackId) {
   if (!cargo && /Agente Comunitário de Saúde/i.test(title)) {
     cargo = 'Agente Comunitário de Saúde'
   }
-  if (!cargo && /Almoxarife/i.test(title + header)) {
+  if (!cargo && /Almoxarife.*Superior|Ensino Superior/i.test(title + header + fallbackId)) {
+    cargo = 'Almoxarife (Ensino Superior)'
+  }
+  if (!cargo && /Almoxarife/i.test(title + header + fallbackId)) {
     cargo = 'Auxiliar de Almoxarife'
+  }
+  if (/superior/i.test(fallbackId) && !/Superior/i.test(cargo)) {
+    cargo = 'Almoxarife (Ensino Superior)'
   }
   const banca =
     header.match(/\*\*Banca:\*\*\s*(.+)/)?.[1]?.trim() ?? 'INDEPAC'
@@ -68,11 +74,24 @@ function parseMeta(header, fallbackId) {
     (/São Joaquim da Barra/i.test(header + title)
       ? 'São Joaquim da Barra/SP'
       : undefined)
-  const identifier =
+  const identifier = (
     header.match(/\*\*Identificador:\*\*\s*(.+)/)?.[1]?.trim() ??
     header.match(/Identificador\s+(\S+)/)?.[1]?.trim() ??
     fallbackId
+  ).replace(/`/g, '').trim()
   return { title: cleanInline(title), cargo: cleanInline(cargo), banca, municipio, identifier }
+}
+
+function extractPassageUntil(text, fallback = 2) {
+  const m = text.match(
+    /quest[õo]es?\s+(\d+)\s*(?:a|e|até|–|-)\s*(\d+)/i,
+  )
+  if (m) return Number(m[2])
+  return fallback
+}
+
+function isQuestionStart(line) {
+  return /^\*\*\d+\.\*\*/.test(line) || /^###\s+\d+\./.test(line)
 }
 
 function splitQuestionChunks(body) {
@@ -80,6 +99,7 @@ function splitQuestionChunks(body) {
   const chunks = []
   let currentSection = 'Geral'
   let preamblePassage = undefined
+  let preambleUntil = 2
   let i = 0
 
   while (i < lines.length) {
@@ -88,19 +108,33 @@ function splitQuestionChunks(body) {
     if (line.match(/^##\s+/)) {
       currentSection = line.replace(/^##\s+/, '').replace(/\s*—.*$/, '').trim()
       preamblePassage = undefined
+      preambleUntil = 2
+      i++
+      continue
+    }
+
+    // "Leia o texto para responder às questões 1 a 4." (não confundir com **1.** Leia o texto.)
+    if (
+      /leia o texto|texto para responder/i.test(line) &&
+      !line.startsWith('>') &&
+      !/^\*\*\d+\.\*\*/.test(line) &&
+      !/^###\s+\d+\./.test(line)
+    ) {
+      preambleUntil = extractPassageUntil(line, preambleUntil)
       i++
       continue
     }
 
     // "### Texto para as questões 1 e 2" followed by plain paragraph
     if (line.match(/^###\s+Texto/i)) {
+      preambleUntil = extractPassageUntil(line, 2)
       i++
       const passageLines = []
       while (
         i < lines.length &&
-        !lines[i].match(/^\*\*\d+\.\*\*/) &&
+        !isQuestionStart(lines[i]) &&
         !lines[i].match(/^##\s+/) &&
-        !lines[i].match(/^###\s+/)
+        !lines[i].match(/^###\s+Texto/i)
       ) {
         if (lines[i].trim()) passageLines.push(lines[i].trim())
         i++
@@ -109,16 +143,14 @@ function splitQuestionChunks(body) {
       continue
     }
 
-    const qStart = line.match(/^\*\*(\d+)\.\*\*\s*(.*)$/)
+    // **1.** ...  ou  ### 1.
+    const qStart =
+      line.match(/^\*\*(\d+)\.\*\*\s*(.*)$/) || line.match(/^###\s+(\d+)\.\s*(.*)$/)
     if (qStart) {
       const num = Number(qStart[1])
       const qLines = [qStart[2] ?? '']
       i++
-      while (
-        i < lines.length &&
-        !lines[i].match(/^\*\*\d+\.\*\*/) &&
-        !lines[i].match(/^##\s+/)
-      ) {
+      while (i < lines.length && !isQuestionStart(lines[i]) && !lines[i].match(/^##\s+/)) {
         qLines.push(lines[i])
         i++
       }
@@ -151,23 +183,22 @@ function splitQuestionChunks(body) {
         if (ql.trim()) statementParts.push(ql.trim())
       }
 
-      let passage =
-        passageLines.length > 0
-          ? cleanInline(passageLines.join(' '))
-          : preamblePassage
+      const ownPassage =
+        passageLines.length > 0 ? cleanInline(passageLines.join(' ')) : undefined
+      const sharedPassage =
+        preamblePassage && num <= preambleUntil ? preamblePassage : undefined
 
-      // After consuming a pre-question passage once for Q1, keep for Q2 then clear
       chunks.push({
         num,
         section: currentSection,
-        passage,
+        passage: ownPassage || sharedPassage,
         statement: cleanInline(statementParts.join(' ')),
         options: Object.fromEntries(
           Object.entries(optionMap).map(([k, v]) => [k, cleanInline(v)]),
         ),
       })
 
-      if (preamblePassage && num >= 2) preamblePassage = undefined
+      if (preamblePassage && num >= preambleUntil) preamblePassage = undefined
       continue
     }
 
@@ -236,8 +267,8 @@ function parseFile(filePath) {
     }
   })
 
-  if (questions.length !== 30) {
-    console.warn(`Aviso: ${id} tem ${questions.length} questões (esperado 30)`)
+  if (![30, 40].includes(questions.length)) {
+    console.warn(`Aviso: ${id} tem ${questions.length} questões (esperado 30 ou 40)`)
   }
 
   return {

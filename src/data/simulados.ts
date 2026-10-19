@@ -553,6 +553,739 @@ export const simulados: Simulado[] = [
     ]
   },
   {
+    "id": "01-almoxarife-superior",
+    "title": "Simulado Autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "01-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "Quando a requisição chega ao almoxarifado, o controle não começa na prateleira. Antes de guardar o material, é preciso verificar o pedido, conferir a entrega e registrar a movimentação. Esse procedimento evita o improviso e permite que cada item esteja disponível no lugar certo, no momento certo e na quantidade adequada. Assim, o material não está apenas guardado: está pronto para atender à necessidade do serviço.",
+        "statement": "A ideia central do texto é que",
+        "options": {
+          "A": "a organização das prateleiras é a única etapa relevante do almoxarifado.",
+          "B": "o controle de materiais integra verificação, conferência e registro para assegurar o atendimento adequado.",
+          "C": "a quantidade de documentos deve substituir a conferência física dos materiais.",
+          "D": "o almoxarifado só deve iniciar seus controles depois que o material for distribuído."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "Quando a requisição chega ao almoxarifado, o controle não começa na prateleira. Antes de guardar o material, é preciso verificar o pedido, conferir a entrega e registrar a movimentação. Esse procedimento evita o improviso e permite que cada item esteja disponível no lugar certo, no momento certo e na quantidade adequada. Assim, o material não está apenas guardado: está pronto para atender à necessidade do serviço.",
+        "statement": "No contexto, a afirmação de que “o controle não começa na prateleira” significa que o controle",
+        "options": {
+          "A": "deve ser feito exclusivamente no local de armazenamento.",
+          "B": "se limita à elaboração do pedido de compra.",
+          "C": "envolve etapas anteriores à guarda física do material.",
+          "D": "dispensa o registro quando o material já foi recebido."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "passage": "Quando a requisição chega ao almoxarifado, o controle não começa na prateleira. Antes de guardar o material, é preciso verificar o pedido, conferir a entrega e registrar a movimentação. Esse procedimento evita o improviso e permite que cada item esteja disponível no lugar certo, no momento certo e na quantidade adequada. Assim, o material não está apenas guardado: está pronto para atender à necessidade do serviço.",
+        "statement": "No texto, a palavra “improviso” pode ser substituída, sem prejuízo do sentido, por",
+        "options": {
+          "A": "ação sem planejamento.",
+          "B": "excesso de estoque.",
+          "C": "atraso inevitável.",
+          "D": "conferência detalhada."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "passage": "Quando a requisição chega ao almoxarifado, o controle não começa na prateleira. Antes de guardar o material, é preciso verificar o pedido, conferir a entrega e registrar a movimentação. Esse procedimento evita o improviso e permite que cada item esteja disponível no lugar certo, no momento certo e na quantidade adequada. Assim, o material não está apenas guardado: está pronto para atender à necessidade do serviço.",
+        "statement": "Os dois-pontos em “o material não está apenas guardado: está pronto para atender” introduzem",
+        "options": {
+          "A": "uma enumeração de sujeitos diferentes.",
+          "B": "uma pergunta indireta.",
+          "C": "uma oposição sem relação com a oração anterior.",
+          "D": "um esclarecimento ou desenvolvimento da afirmação anterior."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a ortografia oficial.",
+        "options": {
+          "A": "A requisição foi encaminhada após a conferência da exceção.",
+          "B": "A requizição foi encaminhada após a conferência da exceção.",
+          "C": "A requisição foi encaminhada após a conferência da exessão.",
+          "D": "A requicição foi encaminhada após a conferência da excessão."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas.",
+        "options": {
+          "A": "saída, público, relatório.",
+          "B": "saída, publico, relatório.",
+          "C": "saida, público, relatório.",
+          "D": "saída, público, relatorio."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “Os dois fornecedores enviaram rapidamente os documentos”, a palavra “rapidamente” pertence à classe dos",
+        "options": {
+          "A": "substantivos.",
+          "B": "adjetivos.",
+          "C": "numerais.",
+          "D": "advérbios."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Em “O encarregado conferiu as notas e arquivou-as”, o termo “as” destacado por sua posição após o hífen é",
+        "options": {
+          "A": "uma conjunção subordinativa.",
+          "B": "um pronome pessoal oblíquo átono.",
+          "C": "um artigo indefinido.",
+          "D": "uma preposição essencial."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa de acordo com a norma-padrão de concordância verbal.",
+        "options": {
+          "A": "Houveram atrasos na entrega dos materiais.",
+          "B": "Fazem dois meses que o inventário foi concluído.",
+          "C": "Faz dois meses que o inventário foi concluído.",
+          "D": "A equipe de conferência registraram a divergência."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa de acordo com a norma-padrão de concordância nominal.",
+        "options": {
+          "A": "Seguem anexas as notas fiscais.",
+          "B": "Segue anexas as notas fiscais.",
+          "C": "Seguem anexo as notas fiscais.",
+          "D": "Segue anexa os documentos fiscais."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência verbal está adequada à norma-padrão.",
+        "options": {
+          "A": "O setor prefere registrar a saída do que confiar na memória.",
+          "B": "O setor prefere de registrar a saída a confiar na memória.",
+          "C": "O setor prefere registrar a saída em vez confiar na memória.",
+          "D": "O setor prefere registrar a saída a confiar na memória."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "A conferência ocorreu à oito horas e foi encaminhada a diretoria.",
+          "B": "A conferência ocorreu às oito horas e foi encaminhada à diretoria.",
+          "C": "A conferência ocorreu as oito horas e foi encaminhada à diretoria.",
+          "D": "A conferência ocorreu às oito horas e foi encaminhada a diretoria."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão.",
+        "options": {
+          "A": "Nunca registram-se saídas sem requisição.",
+          "B": "Nunca se registram saídas sem requisição.",
+          "C": "Nunca registram saídas se sem requisição.",
+          "D": "Nunca registram saídas sem se requisição."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “Para reduzir custos, o gestor enxugou o estoque”, o verbo “enxugou” foi empregado em sentido figurado e significa",
+        "options": {
+          "A": "reduziu.",
+          "B": "molhou.",
+          "C": "transferiu.",
+          "D": "etiquetou."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "Em “Embora a entrega tenha sido parcial, o pedido foi registrado”, a palavra “Embora” estabelece relação de",
+        "options": {
+          "A": "causa.",
+          "B": "finalidade.",
+          "C": "condição.",
+          "D": "concessão."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "Analise as afirmações a seguir: I. (-18)+\\dfrac3(5-9)2=-24. II. A solução de 3x+18=90 é x=24. III. \\dfrac58+\\dfrac14=\\dfrac78. IV. \\dfrac23÷\\dfrac45=\\dfrac815. Está correto o que se afirma em",
+        "options": {
+          "A": "I e II, apenas.",
+          "B": "I e IV, apenas.",
+          "C": "II e IV, apenas.",
+          "D": "I, II e III, apenas."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Quatro servidores, trabalhando durante 3 horas no mesmo ritmo, conferem 240 itens. Mantidas as mesmas condições de produtividade, quantos itens serão conferidos por seis servidores em 2 horas?",
+        "options": {
+          "A": "160.",
+          "B": "200.",
+          "C": "240.",
+          "D": "360."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "A tabela registra o estoque de três itens: | Item | Quantidade em estoque | |---|---:| | A | 240 | | B | 160 | | C | 100 | Uma saída correspondente a 15% do estoque do item A representa quantas unidades?",
+        "options": {
+          "A": "24.",
+          "B": "30.",
+          "C": "36.",
+          "D": "40."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Considere um capital de R$ 1.000,00 aplicado por dois meses, à taxa de 10% ao mês. No regime de juros simples e no regime de juros compostos, respectivamente, os montantes serão de",
+        "options": {
+          "A": "R$ 1.100,00 e R$ 1.200,00.",
+          "B": "R$ 1.200,00 e R$ 1.210,00.",
+          "C": "R$ 1.210,00 e R$ 1.200,00.",
+          "D": "R$ 1.220,00 e R$ 1.210,00."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Uma caixa retangular tem base de 0,8 m por 0,5 m e altura de 0,4 m. A área da base e o volume da caixa, respectivamente, são",
+        "options": {
+          "A": "0,4 m² e 0,16 m³, equivalentes a 160 litros.",
+          "B": "1,3 m² e 1,7 m³, equivalentes a 1.700 litros.",
+          "C": "0,4 m² e 0,20 m³, equivalentes a 20 litros.",
+          "D": "0,16 m² e 0,4 m³, equivalentes a 400 litros."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No contexto da administração de materiais, a finalidade mais abrangente da gestão é",
+        "options": {
+          "A": "comprar sempre o item de menor preço, independentemente de sua especificação.",
+          "B": "assegurar a disponibilidade do material adequado, na quantidade, no momento e no local necessários, com controle dos recursos.",
+          "C": "manter o maior volume possível de materiais, ainda que sem previsão de uso.",
+          "D": "substituir os registros de estoque por inspeções visuais ocasionais."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para planejar e controlar estoques de forma compatível com o atendimento dos órgãos municipais, é adequado",
+        "options": {
+          "A": "considerar apenas o saldo atual, sem observar o prazo de entrega dos fornecedores.",
+          "B": "repor todos os itens em quantidade fixa, mesmo quando o consumo varia.",
+          "C": "aguardar o estoque zerar para iniciar qualquer providência de compra.",
+          "D": "analisar consumo, prazo de reposição, níveis de estoque e demanda, mantendo registros atualizados."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre classificação, codificação, especificação e padronização de materiais, assinale a alternativa correta.",
+        "options": {
+          "A": "A codificação deve mudar a cada entrada para evitar repetição de registros.",
+          "B": "A especificação deve ser genérica, para permitir que qualquer item seja aceito.",
+          "C": "A especificação descreve características do item, a padronização reduz variedades desnecessárias e o código facilita sua identificação.",
+          "D": "A padronização impede o controle por famílias de materiais e elimina a necessidade de descrição."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No recebimento de uma entrega, o procedimento mais adequado é",
+        "options": {
+          "A": "conferir apenas o valor total da nota fiscal e encaminhar os volumes diretamente à prateleira.",
+          "B": "aceitar a mercadoria conforme a nota fiscal, dispensando a comparação com o pedido de fornecimento.",
+          "C": "confrontar pedido, documento fiscal e material recebido, verificando quantidade, qualidade e especificação, e registrar qualquer divergência.",
+          "D": "rejeitar toda entrega que contenha mais de um tipo de material, mesmo que o pedido seja único."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Considerando armazenamento e expedição, assinale a alternativa correta.",
+        "options": {
+          "A": "Materiais com prazo de validade devem ser colocados atrás dos mais antigos, para preservar a aparência das prateleiras.",
+          "B": "A expedição pode ocorrer verbalmente, sem requisição autorizada, desde que o solicitante seja conhecido.",
+          "C": "A embalagem deve ser feita sempre do mesmo modo, sem levar em conta fragilidade, umidade ou forma de transporte.",
+          "D": "A utilização do método FEFO para itens com validade, aliada à separação por pedido autorizado, embalagem adequada e registro da saída, reduz riscos de perda e erro."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Determinado item tem consumo médio diário de 20 unidades, prazo de reposição de 5 dias e estoque de segurança de 30 unidades. Considerando ponto de reposição igual ao consumo durante o prazo mais o estoque de segurança, o ponto de reposição é de",
+        "options": {
+          "A": "100 unidades.",
+          "B": "130 unidades.",
+          "C": "150 unidades.",
+          "D": "200 unidades."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um almoxarifado iniciou o mês com 500 unidades de um item, recebeu 300 unidades e distribuiu 450 unidades. Não havendo ajustes, o saldo final registrado deve ser de",
+        "options": {
+          "A": "150 unidades.",
+          "B": "250 unidades.",
+          "C": "300 unidades.",
+          "D": "350 unidades."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na curva ABC, os itens classificados como classe A são, em regra,",
+        "options": {
+          "A": "aqueles de menor valor de consumo anual e que não exigem controle.",
+          "B": "poucos itens que representam parcela elevada do valor de consumo anual e merecem controle mais rigoroso.",
+          "C": "todos os itens de consumo eventual, independentemente de seu valor.",
+          "D": "materiais sem código, que devem ser retirados do estoque imediatamente."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Se o consumo médio mensal de um item é de 100 unidades e o estoque médio é de 200 unidades, a rotatividade mensal e a cobertura aproximada são, respectivamente,",
+        "options": {
+          "A": "2 vezes e 0,5 mês.",
+          "B": "1 vez e 1 mês.",
+          "C": "0,5 vez e 2 meses.",
+          "D": "100 vezes e 200 meses."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para realizar um inventário físico com qualidade, é adequado",
+        "options": {
+          "A": "planejar a contagem, definir responsáveis, controlar ou suspender movimentações durante a contagem, registrar os resultados e conciliar divergências.",
+          "B": "contar somente os itens de maior valor e aceitar o saldo do sistema para os demais.",
+          "C": "alterar o sistema antes da contagem, para que os números físico e registrado coincidam.",
+          "D": "dispensar a análise das diferenças quando o inventário for realizado por amostragem."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um sistema que atualiza o saldo a cada entrada e saída, permitindo acompanhar continuamente a posição de cada item, caracteriza um registro",
+        "options": {
+          "A": "exclusivamente patrimonial.",
+          "B": "anual e sem movimentação intermediária.",
+          "C": "estimado, sem necessidade de documento de suporte.",
+          "D": "permanente ou contínuo."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "É uma medida adequada para prevenir perdas, danos, deterioração e obsolescência no almoxarifado",
+        "options": {
+          "A": "misturar materiais danificados aos utilizáveis, para evitar diferença no inventário.",
+          "B": "controlar validade e condições ambientais, adotar rotação adequada, inspecionar periodicamente e segregar e registrar itens avariados.",
+          "C": "retirar etiquetas de validade para facilitar a arrumação.",
+          "D": "manter materiais sensíveis diretamente no piso, desde que o local esteja fechado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No patrimônio público, o tombamento de um bem móvel tem como finalidade principal",
+        "options": {
+          "A": "identificar e registrar o bem, sua descrição e localização, vinculando-o ao controle patrimonial e à responsabilidade de guarda.",
+          "B": "autorizar automaticamente a venda do bem a qualquer interessado.",
+          "C": "substituir o inventário físico por uma declaração verbal do usuário.",
+          "D": "classificar o bem como material de consumo, ainda que seja permanente."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Quando um bem permanente é transferido de uma unidade municipal para outra, e quando se pretende dar baixa nesse bem, é correto afirmar que",
+        "options": {
+          "A": "basta mover o bem, pois a localização não integra o controle patrimonial.",
+          "B": "a baixa deve ser feita antes de qualquer autorização, para liberar espaço físico.",
+          "C": "a transferência deve ser formalizada e atualizar localização e responsável; a baixa depende de autorização e registro conforme o procedimento aplicável.",
+          "D": "o tombamento deve ser apagado sempre que o bem mudar de sala."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao verificar que um item atingiu nível que exige reposição, uma atuação compatível com as compras e contratações públicas é",
+        "options": {
+          "A": "escolher diretamente um fornecedor conhecido e determinar a entrega, sem documentação.",
+          "B": "dividir a demanda em pedidos artificiais para evitar o procedimento cabível.",
+          "C": "comprar por mensagem informal, dispensando especificação e pesquisa de preços.",
+          "D": "preparar a solicitação com especificação, quantidade e justificativa, realizar ou encaminhar a pesquisa de preços conforme as normas e submeter o processo à autoridade competente."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No acompanhamento de pedidos e na gestão de fornecedores, é conduta adequada",
+        "options": {
+          "A": "aceitar qualquer substituição de item, ainda que altere a especificação, para evitar atraso.",
+          "B": "acompanhar prazo, quantidade e condições do pedido, registrar ocorrências e comunicar a unidade responsável quando houver atraso ou divergência.",
+          "C": "considerar o pedido encerrado na data da emissão, mesmo sem recebimento.",
+          "D": "ocultar atrasos do fornecedor para preservar o relacionamento comercial."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A logística e a cadeia de suprimentos, aplicadas ao almoxarifado, envolvem",
+        "options": {
+          "A": "somente o transporte externo, sem relação com demanda ou estoque.",
+          "B": "apenas a guarda física, sem fluxo de informações.",
+          "C": "a integração dos fluxos de materiais e informações entre fornecedores, almoxarifado e unidades usuárias, buscando abastecimento no prazo adequado.",
+          "D": "exclusivamente a aquisição de materiais de escritório."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um relatório administrativo de estoque deve, preferencialmente,",
+        "options": {
+          "A": "indicar período, entradas, saídas, saldos, divergências, entregas ou pendências e respectivas fontes de registro, permitindo análise e providências.",
+          "B": "apresentar apenas o saldo final, sem data, responsável ou documentação de apoio.",
+          "C": "substituir os documentos fiscais e as requisições de materiais.",
+          "D": "registrar somente ocorrências favoráveis, para evitar questionamentos."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Se um agente público direciona o fornecimento de materiais a uma empresa apenas por ser de propriedade de um amigo, sua conduta afronta diretamente o princípio da",
+        "options": {
+          "A": "continuidade.",
+          "B": "impessoalidade.",
+          "C": "autotutela.",
+          "D": "especialidade."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "01-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre segurança, ergonomia, prevenção de acidentes e uso de EPI na movimentação de materiais, é correto",
+        "options": {
+          "A": "transportar qualquer carga manualmente, desde que o deslocamento seja rápido.",
+          "B": "levantar cargas com a coluna curvada, mantendo os joelhos estendidos, para reduzir o tempo da tarefa.",
+          "C": "retirar o EPI quando o material estiver dentro do almoxarifado, pois o risco existe apenas na área externa.",
+          "D": "avaliar o peso e o percurso, usar meios auxiliares quando cabível, manter a carga próxima ao corpo, adotar postura segura e utilizar os EPIs indicados."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
     "id": "02-acs",
     "title": "Simulado autoral — Município de São Joaquim da Barra/SP",
     "cargo": "Agente Comunitário de Saúde",
@@ -1103,6 +1836,737 @@ export const simulados: Simulado[] = [
     ]
   },
   {
+    "id": "02-almoxarife-superior",
+    "title": "Simulado autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "02-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "No almoxarifado municipal, a conferência não se encerra com a contagem das caixas. É necessário verificar se o material corresponde ao pedido, observar suas especificações e registrar a entrada. Quando surge uma divergência, o item deve ser separado e a ocorrência comunicada antes de qualquer distribuição.",
+        "statement": "Leia o texto. De acordo com o texto, a conferência de materiais:",
+        "options": {
+          "A": "consiste exclusivamente em contar as unidades entregues.",
+          "B": "envolve a comparação com o pedido, a verificação das especificações e o registro da entrada.",
+          "C": "deve ser realizada somente depois que o material for distribuído aos setores.",
+          "D": "permite que uma divergência seja corrigida sem comunicação, desde que a quantidade esteja correta."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "statement": "No período “A organização do estoque funciona como uma ponte entre a necessidade do setor e a disponibilidade de materiais”, a palavra destacada foi empregada em sentido:",
+        "options": {
+          "A": "próprio, pois se refere a uma construção sobre um curso de água.",
+          "B": "próprio, pois indica uma estrutura física do almoxarifado.",
+          "C": "figurado, pois expressa a ideia de ligação ou mediação.",
+          "D": "figurado, pois significa obstáculo à circulação de materiais."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "statement": "No relatório, registrou-se que a revisão do cadastro foi uma medida paliativa para reduzir os erros até a implantação do novo sistema. Nesse contexto, a expressão destacada significa uma medida:",
+        "options": {
+          "A": "definitiva, destinada a eliminar permanentemente o problema.",
+          "B": "provisória, destinada a atenuar o problema.",
+          "C": "ilegal, adotada sem qualquer finalidade administrativa.",
+          "D": "inútil, que não produz nenhum efeito imediato."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a ortografia oficial.",
+        "options": {
+          "A": "A equipe identificou uma excessão e atualizou o relatório.",
+          "B": "A equipe identificou uma exceção e atualizou o relatório.",
+          "C": "O almoxarife analisou o previlégio concedido ao fornecedor.",
+          "D": "Foi necessário revisar os ítens antes da expedição."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa corretamente pontuada.",
+        "options": {
+          "A": "Após a conferência, o almoxarife, registrou a entrada no sistema.",
+          "B": "Os itens recebidos, porém, foram encaminhados para a área de inspeção.",
+          "C": "Quando chegou a nota fiscal o servidor, iniciou a conferência.",
+          "D": "O gestor solicitou, que o relatório fosse corrigido."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a acentuação gráfica está correta.",
+        "options": {
+          "A": "A saída de materiais do órgão foi registrada no relatório.",
+          "B": "A analise da nota fiscal revelou uma divergência.",
+          "C": "O item é util para a manutenção do equipamento.",
+          "D": "A conferência foi concluida antes do encerramento do expediente."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Leia a frase: “Os novos registros serão lançados cuidadosamente no sistema.” A palavra destacada pertence à classe dos:",
+        "options": {
+          "A": "substantivos.",
+          "B": "adjetivos.",
+          "C": "advérbios.",
+          "D": "preposições."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que atende à concordância verbal da norma-padrão.",
+        "options": {
+          "A": "Faz dois meses que os materiais chegaram.",
+          "B": "Houveram divergências na conferência.",
+          "C": "Existe registros atualizados no sistema.",
+          "D": "Foi conferido as notas fiscais do pedido."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que atende à concordância nominal da norma-padrão.",
+        "options": {
+          "A": "Seguem anexos os comprovantes de entrega.",
+          "B": "É proibido a entrada de pessoas não autorizadas.",
+          "C": "A caixa e os pallets ficou armazenada no setor coberto.",
+          "D": "A documentação e o relatório está completos."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência verbal está adequada à norma-padrão.",
+        "options": {
+          "A": "O almoxarife obedeceu às normas de segurança.",
+          "B": "O setor prefere registrar as saídas do que ignorá-las.",
+          "C": "O responsável assistiu o treinamento obrigatório.",
+          "D": "O almoxarife procedeu o inventário anual."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência nominal está correta.",
+        "options": {
+          "A": "O procedimento é compatível com as normas vigentes.",
+          "B": "O servidor é responsável em controlar o estoque.",
+          "C": "A equipe estava atenta sobre a validade dos produtos.",
+          "D": "O setor demonstrou resistência com a mudança do procedimento."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego do sinal indicativo de crase está correto.",
+        "options": {
+          "A": "Antes de encaminhar o pedido, o almoxarife dirigiu-se à unidade requisitante.",
+          "B": "O servidor entregou o documento à prazo.",
+          "C": "A equipe começou à conferir os volumes recebidos.",
+          "D": "O atendimento ocorrerá de segunda à sexta-feira."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que apresenta colocação pronominal adequada à norma-padrão.",
+        "options": {
+          "A": "Não se devem misturar lotes com validades diferentes.",
+          "B": "Quando entregaram-me a nota, a conferência foi iniciada.",
+          "C": "O servidor havia registrado-se no sistema de visitantes.",
+          "D": "Jamais encaminhará-se o pedido sem autorização."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Leia o período: “Embora o pedido estivesse autorizado, a entrega foi suspensa por causa de uma divergência na especificação.” A conjunção destacada estabelece relação de:",
+        "options": {
+          "A": "causa.",
+          "B": "condição.",
+          "C": "concessão.",
+          "D": "finalidade."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "passage": "A redução de perdas não depende apenas de um espaço maior. Ela resulta da identificação dos materiais, do acesso seguro, do registro confiável e de rotinas de conferência. Quando uma divergência é localizada, deve ser analisada antes de qualquer ajuste no sistema.",
+        "statement": "Leia o texto. De acordo com o texto, uma conduta adequada é:",
+        "options": {
+          "A": "aumentar as compras sempre que houver pouco espaço disponível.",
+          "B": "guardar materiais diferentes juntos para aproveitar melhor as prateleiras.",
+          "C": "eliminar do sistema toda divergência que não puder ser resolvida no mesmo dia.",
+          "D": "combinar organização física, registros confiáveis e investigação das divergências antes de ajustar os dados. ---"
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "O resultado de \\left(-2\\right)+(3)/(4)+(2)/(5)-(1)/(10) é:",
+        "options": {
+          "A": "-(21)/(20).",
+          "B": "-(19)/(20).",
+          "C": "(19)/(20).",
+          "D": "(21)/(20)."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Quatro servidores, trabalhando 6 horas por dia durante 5 dias, conferem 1.200 itens. Mantida a mesma produtividade por hora e por servidor, quantos itens serão conferidos por 6 servidores que trabalham 4 horas por dia durante 4 dias?",
+        "options": {
+          "A": "800.",
+          "B": "960.",
+          "C": "1.000.",
+          "D": "1.200."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Uma unidade aplicou R$ 1.500,00 à taxa de 2% ao mês, durante 3 meses. Considerando duas casas decimais, os montantes obtidos, respectivamente, no regime de juros simples e no de juros compostos são:",
+        "options": {
+          "A": "R$ 1.590,00 e R$ 1.591,81.",
+          "B": "R$ 1.590,00 e R$ 1.590,00.",
+          "C": "R$ 1.560,00 e R$ 1.591,81.",
+          "D": "R$ 1.591,81 e R$ 1.590,00."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Uma área retangular de armazenagem tem 2,5 m de comprimento, 1,2 m de largura e 1,6 m de altura útil. Se fosse totalmente ocupada, seu volume geométrico seria de:",
+        "options": {
+          "A": "3,80 m³.",
+          "B": "4,20 m³.",
+          "C": "4,80 m³.",
+          "D": "5,30 m³."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Considere o resumo de movimentação de um item: | Movimento | Quantidade | |---|---:| | Entradas no mês | 48 | | Saídas no mês | 75 | | Saldo final | 33 | O gráfico textual abaixo representa os mesmos dados, com cada bloco correspondendo a 3 unidades: ```text Entradas | ████████████████ 48 Saídas | █████████████████████████ 75 Saldo final | ███████████ 33 ``` Sabendo que saldo final = saldo inicial + entradas − saídas, o saldo inicial desse item era de:",
+        "options": {
+          "A": "42 unidades.",
+          "B": "60 unidades.",
+          "C": "96 unidades.",
+          "D": "108 unidades. ---"
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No planejamento de uma aquisição para abastecer órgãos municipais, a prática mais adequada é:",
+        "options": {
+          "A": "aguardar o estoque chegar a zero, independentemente do prazo de entrega.",
+          "B": "comprar materiais apenas para ocupar os espaços vazios das prateleiras.",
+          "C": "escolher sempre o fornecedor mais próximo, sem avaliar consumo ou especificações.",
+          "D": "considerar o histórico e a previsão de consumo, o prazo de reposição, o estoque disponível e a autorização administrativa."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre classificação, codificação, especificação e padronização de materiais, assinale a alternativa correta.",
+        "options": {
+          "A": "A codificação deve mudar a cada fornecedor, para identificar a origem comercial do item.",
+          "B": "A especificação descreve características objetivas do material; o código permite sua identificação e a padronização reduz variedades desnecessárias.",
+          "C": "A padronização impede a comparação entre materiais e deve ser evitada em compras públicas.",
+          "D": "A classificação substitui a conferência física, pois o código garante que o item entregue esteja correto."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um pedido e a nota fiscal indicam 100 unidades de determinado material. Na entrega, são encontradas 96 unidades, sendo 4 delas danificadas. Qual é a conduta mais adequada?",
+        "options": {
+          "A": "Atestar o recebimento integral e corrigir a quantidade posteriormente, sem registro.",
+          "B": "Distribuir imediatamente as unidades não danificadas e descartar as demais sem comunicação.",
+          "C": "Conferir a documentação, registrar a falta e os danos, segregar os itens comprometidos e comunicar a divergência antes do aceite definitivo.",
+          "D": "Recusar verbalmente a carga, sem registrar a ocorrência nem informar o responsável pelo pedido."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para armazenar materiais com prazo de validade, uma prática adequada de organização e localização é:",
+        "options": {
+          "A": "adotar endereçamento identificado e priorizar a saída do lote com vencimento mais próximo, pelo critério FEFO.",
+          "B": "colocar os lotes mais novos na frente, para que sejam distribuídos primeiro.",
+          "C": "misturar lotes de datas diferentes no mesmo endereço, dispensando a identificação individual.",
+          "D": "manter as caixas diretamente no piso, desde que a área esteja próxima da expedição."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo médio de um item é de 20 unidades por dia, o prazo de reposição é de 5 dias e o estoque de segurança definido é de 30 unidades. Adotando ponto de reposição = consumo durante o prazo de reposição + estoque de segurança, o ponto de reposição será de:",
+        "options": {
+          "A": "90 unidades.",
+          "B": "100 unidades.",
+          "C": "130 unidades.",
+          "D": "150 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Em determinado controle, foi adotada a fórmula estoque máximo = estoque mínimo + lote de reposição. Se o estoque mínimo é de 120 unidades e o lote de reposição é de 350 unidades, o estoque máximo é de:",
+        "options": {
+          "A": "230 unidades.",
+          "B": "350 unidades.",
+          "C": "450 unidades.",
+          "D": "470 unidades."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um item apresenta consumo anual de 2.400 unidades e estoque médio de 300 unidades. Considerando rotatividade = consumo anual ÷ estoque médio e 12 meses no ano, a rotatividade e a cobertura aproximada desse estoque são, respectivamente:",
+        "options": {
+          "A": "6 giros por ano e 2 meses.",
+          "B": "8 giros por ano e 1,5 mês.",
+          "C": "8 giros por ano e 3 meses.",
+          "D": "12 giros por ano e 1,5 mês."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na classificação ABC, os itens da classe A são, em regra:",
+        "options": {
+          "A": "todos os itens de baixo valor unitário, ainda que tenham alto consumo.",
+          "B": "itens escolhidos apenas pela ordem alfabética de seus nomes.",
+          "C": "materiais sem movimentação, que devem ser automaticamente baixados.",
+          "D": "itens que representam parcela elevada do valor de consumo, normalmente em quantidade menor, exigindo controle mais rigoroso."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre inventários físicos, assinale a alternativa correta.",
+        "options": {
+          "A": "O inventário deve comparar apenas o valor financeiro, sem contagem das quantidades.",
+          "B": "O inventário geral elimina a necessidade de registros de entradas e saídas durante todo o exercício.",
+          "C": "No inventário rotativo, partes do estoque são contadas em períodos planejados; as divergências devem ser analisadas e conciliadas com os registros.",
+          "D": "A contagem pode ser feita sem identificar os itens, desde que o total de caixas coincida com o relatório."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante a conferência, o saldo físico de um material não coincide com o saldo apresentado no sistema. A providência mais adequada é:",
+        "options": {
+          "A": "alterar o saldo imediatamente, sem verificar documentos, para que o sistema coincida com a contagem.",
+          "B": "recontar e verificar documentos e movimentações, investigar a causa e efetuar eventual ajuste com autorização e justificativa registrada.",
+          "C": "ignorar a diferença quando ela for inferior a dez unidades.",
+          "D": "retirar o item do cadastro e criar outro código para o saldo encontrado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para prevenir perdas, danos, deterioração e obsolescência, é adequado:",
+        "options": {
+          "A": "controlar validade e condições de conservação, aplicar o critério de saída adequado, inspecionar periodicamente e segregar materiais comprometidos.",
+          "B": "manter todos os materiais embalados indefinidamente, sem abrir volumes para inspeção.",
+          "C": "distribuir primeiro os materiais recém-recebidos, independentemente do lote e da validade.",
+          "D": "registrar perdas somente quando houver solicitação do fornecedor."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na gestão e conservação de bens móveis da Administração, é uma conduta adequada:",
+        "options": {
+          "A": "permitir o uso por qualquer servidor, sem registro, desde que o bem permaneça no prédio.",
+          "B": "considerar a manutenção desnecessária quando o bem ainda estiver funcionando.",
+          "C": "controlar a responsabilidade, o local e as condições de uso do bem, providenciando conservação e registros atualizados.",
+          "D": "retirar a identificação patrimonial durante a manutenção para evitar desgaste da etiqueta."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre patrimônio público, tombamento e movimentação de bens, assinale a alternativa correta.",
+        "options": {
+          "A": "Todo material de consumo deve receber tombamento individual, mesmo quando destinado ao uso imediato.",
+          "B": "A baixa de um bem pode ser feita verbalmente pelo usuário que o recebeu.",
+          "C": "O bem permanente deve ser identificado e registrado; transferências devem ser formalizadas, e a baixa depende de procedimento e autorização próprios.",
+          "D": "O inventário patrimonial substitui o registro de responsabilidade pelo bem."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na preparação de uma solicitação de compra e na pesquisa ou coleta de preços, é adequado:",
+        "options": {
+          "A": "descrever a necessidade, as quantidades e as especificações, coletar propostas comparáveis e manter a documentação do procedimento.",
+          "B": "indicar marca sem justificativa e aceitar qualquer item semelhante para acelerar a compra.",
+          "C": "escolher previamente o fornecedor e coletar preços apenas para confirmar a escolha.",
+          "D": "dividir artificialmente a aquisição para evitar o registro do valor total da necessidade."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Após o encaminhamento de um pedido autorizado ao fornecedor, o acompanhamento adequado inclui:",
+        "options": {
+          "A": "alterar a quantidade solicitada diretamente com o entregador, sem comunicar a Administração.",
+          "B": "considerar o pedido encerrado no momento do envio, sem verificar prazo ou entrega.",
+          "C": "aceitar substituição de especificação sempre que o fornecedor afirmar que o item é equivalente.",
+          "D": "acompanhar prazo e condições, confirmar a entrega, registrar ocorrências e comunicar atrasos ou divergências aos responsáveis."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Uma noção central de logística e cadeia de suprimentos é:",
+        "options": {
+          "A": "manter o maior estoque possível em cada unidade, ainda que sem demanda.",
+          "B": "integrar o fluxo de materiais e informações, buscando o item adequado, na quantidade, condição, tempo e local necessários.",
+          "C": "concentrar todas as decisões no transporte, sem considerar armazenagem ou demanda.",
+          "D": "tratar o fornecedor, o almoxarifado e o setor requisitante como atividades sem relação entre si."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um relatório de controle de estoque é mais útil para a Administração quando:",
+        "options": {
+          "A": "apresenta somente o saldo final, sem indicar a origem dos dados.",
+          "B": "substitui os documentos fiscais e os registros de movimentação.",
+          "C": "informa período, saldo inicial, entradas, saídas, saldo final, divergências e providências, permitindo rastreabilidade.",
+          "D": "omite ocorrências negativas para evitar questionamentos sobre o setor."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A atuação do almoxarife como agente público deve observar, entre outros, os princípios de:",
+        "options": {
+          "A": "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+          "B": "preferência pessoal, sigilo absoluto de todos os atos e informalidade dos registros.",
+          "C": "liberdade para escolher fornecedor, independentemente de autorização e critérios administrativos.",
+          "D": "prioridade a interesses particulares quando isso acelerar a entrega do material."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao movimentar uma caixa pesada, uma conduta compatível com segurança, ergonomia e prevenção de acidentes é:",
+        "options": {
+          "A": "levantar a carga com a coluna curvada, para reduzir o tempo da tarefa.",
+          "B": "transportar a carga acima da linha dos olhos, mesmo que impeça a visão do trajeto.",
+          "C": "dispensar carrinho ou ajuda quando a distância for curta, independentemente do peso.",
+          "D": "avaliar o peso, manter a carga próxima ao corpo, flexionar os joelhos, usar equipamento auxiliar quando necessário e utilizar o EPI adequado."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "02-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante a entrega de um pedido autorizado, o almoxarife identifica embalagem violada e quantidade divergente. Considerando suas atribuições, a ação mais adequada é:",
+        "options": {
+          "A": "liberar a entrega e ajustar o estoque apenas no fim do mês, para não atrasar a distribuição.",
+          "B": "inspecionar e conferir a entrega, registrar as divergências, separar os materiais comprometidos e informar o responsável pelo processo antes do aceite definitivo.",
+          "C": "substituir a especificação do pedido por outra mais conveniente, sem nova autorização.",
+          "D": "realizar o tombamento dos materiais de consumo e descartar a documentação fiscal. ---"
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
     "id": "03-acs",
     "title": "Simulado autoral — Município de São Joaquim da Barra/SP",
     "cargo": "Agente Comunitário de Saúde",
@@ -1643,6 +3107,738 @@ export const simulados: Simulado[] = [
           "B": "A Portaria institui uma especialidade médica, e a lei autoriza o ACS a prescrever medicamentos de uso contínuo.",
           "C": "A Portaria determina que o ACS trabalhe somente em hospitais, e a lei exclui as visitas domiciliares de suas atividades.",
           "D": "A Portaria torna desnecessária a formação introdutória, e a lei permite ao ACS substituir consultas e diagnósticos realizados pelos demais profissionais."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "03-almoxarife-superior",
+    "title": "Simulado autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "03-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "Em um almoxarifado público, organização não se resume a alinhar caixas. Ela depende de informações confiáveis: etiquetas legíveis, registros atualizados e conferência antes de cada saída. Quando esses cuidados fazem parte da rotina, a equipe localiza o material com mais rapidez e reduz tanto o desperdício quanto os atrasos no atendimento. Assim, o espaço físico deixa de ser apenas depósito e passa a apoiar o planejamento dos serviços.",
+        "statement": "A ideia central do texto é que",
+        "options": {
+          "A": "a disposição visual das caixas é suficiente para garantir o funcionamento de um almoxarifado.",
+          "B": "o almoxarifado deve priorizar a ocupação do espaço, ainda que os registros estejam desatualizados.",
+          "C": "organização, informação e conferência contribuem para a eficiência e para o planejamento dos serviços.",
+          "D": "o planejamento dos serviços deve ocorrer somente depois da distribuição dos materiais."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "Em um almoxarifado público, organização não se resume a alinhar caixas. Ela depende de informações confiáveis: etiquetas legíveis, registros atualizados e conferência antes de cada saída. Quando esses cuidados fazem parte da rotina, a equipe localiza o material com mais rapidez e reduz tanto o desperdício quanto os atrasos no atendimento. Assim, o espaço físico deixa de ser apenas depósito e passa a apoiar o planejamento dos serviços.",
+        "statement": "De acordo com o texto, pode-se inferir que a manutenção de registros atualizados",
+        "options": {
+          "A": "torna desnecessária a identificação física dos materiais.",
+          "B": "ajuda a localizar materiais e a reduzir desperdícios e atrasos.",
+          "C": "substitui a conferência realizada antes da saída dos itens.",
+          "D": "serve apenas para controlar o espaço ocupado pelas caixas."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "passage": "Em um almoxarifado público, organização não se resume a alinhar caixas. Ela depende de informações confiáveis: etiquetas legíveis, registros atualizados e conferência antes de cada saída. Quando esses cuidados fazem parte da rotina, a equipe localiza o material com mais rapidez e reduz tanto o desperdício quanto os atrasos no atendimento. Assim, o espaço físico deixa de ser apenas depósito e passa a apoiar o planejamento dos serviços.",
+        "statement": "No texto, a expressão “esses cuidados” retoma",
+        "options": {
+          "A": "somente o alinhamento das caixas no espaço físico.",
+          "B": "exclusivamente o planejamento dos serviços.",
+          "C": "a localização rápida e a redução dos atrasos.",
+          "D": "as etiquetas legíveis, os registros atualizados e a conferência antes da saída."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "No período “Embora o conserto fosse iminente, a chefia destacou a atuação eminente da técnica”, as palavras destacadas significam, respectivamente,",
+        "options": {
+          "A": "inevitável e recente.",
+          "B": "prestes a ocorrer e notável.",
+          "C": "importante e provisória.",
+          "D": "distante e especializada."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a norma-padrão.",
+        "options": {
+          "A": "exceção, análise, almoxarifado.",
+          "B": "excessão, análise, almoxarifado.",
+          "C": "exceção, análize, almocharifado.",
+          "D": "exessão, análize, almoxarifado."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Em “Considerando o prazo de entrega, o almoxarife comunicou o setor solicitante”, a vírgula foi empregada para",
+        "options": {
+          "A": "separar o sujeito do predicado.",
+          "B": "isolar um vocativo.",
+          "C": "separar uma oração subordinada adverbial reduzida de gerúndio anteposta.",
+          "D": "indicar a omissão do verbo principal."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas.",
+        "options": {
+          "A": "saída, público, relatório.",
+          "B": "saída, publico, relatorio.",
+          "C": "saìda, público, relatório.",
+          "D": "saída, público, relatorío."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Em “O inventário anual revelou divergências pequenas”, a palavra “pequenas” é classificada como",
+        "options": {
+          "A": "advérbio.",
+          "B": "substantivo.",
+          "C": "adjetivo.",
+          "D": "pronome indefinido."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que apresenta concordância verbal de acordo com a norma-padrão.",
+        "options": {
+          "A": "Falta, no almoxarifado, cinco lacres de segurança.",
+          "B": "Faltam, no almoxarifado, cinco lacres de segurança.",
+          "C": "Houveram divergências na contagem dos itens.",
+          "D": "Existe, no depósito, diversos materiais vencidos."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a concordância nominal está correta.",
+        "options": {
+          "A": "Segue anexo as notas fiscais conferidas.",
+          "B": "Seguem anexas as notas fiscais conferidas.",
+          "C": "Seguem anexo as notas fiscais conferidas.",
+          "D": "Segue anexadas as notas fiscais conferidas."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
+        "options": {
+          "A": "Os servidores obedeceram as normas de segurança.",
+          "B": "Os servidores obedeceram às normas de segurança.",
+          "C": "Os servidores preferiram mais o controle eletrônico.",
+          "D": "A equipe chegou no almoxarifado às oito horas."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à regência nominal.",
+        "options": {
+          "A": "O produto é compatível à impressora do setor.",
+          "B": "O produto é compatível com a impressora do setor.",
+          "C": "O produto é compatível da impressora do setor.",
+          "D": "O produto é compatível pela impressora do setor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "A equipe retornou à unidade e entregou o relatório às 16 horas.",
+          "B": "A equipe retornou a unidade e entregou o relatório às 16 horas.",
+          "C": "A equipe entregou o bem à um setor do município.",
+          "D": "A equipe foi à pé até o depósito central."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que apresenta colocação pronominal de acordo com a norma-padrão.",
+        "options": {
+          "A": "Não devem-se manter caixas no corredor.",
+          "B": "Não se devem manter caixas no corredor.",
+          "C": "Não devem manter caixas-se no corredor.",
+          "D": "Se não devem manter caixas no corredor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "Em “Os materiais que chegaram ontem foram conferidos”, o termo “que” é",
+        "options": {
+          "A": "conjunção integrante, sem função na oração.",
+          "B": "advérbio de intensidade.",
+          "C": "pronome relativo, pois retoma “materiais”.",
+          "D": "preposição exigida pelo verbo “chegaram”."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "O resultado de (3)/(4) - (5)/(6) + (1)/(3) é",
+        "options": {
+          "A": "(1)/(12).",
+          "B": "(1)/(4).",
+          "C": "(5)/(12).",
+          "D": "(3)/(4)."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Um controle de estoque registra que 4x - 18 = 62. O valor de x é",
+        "options": {
+          "A": "11.",
+          "B": "16.",
+          "C": "20.",
+          "D": "32."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Quatro servidores conferem 600 itens em 5 horas, mantendo o mesmo ritmo individual. Quantos itens serão conferidos por seis servidores em 4 horas, nas mesmas condições?",
+        "options": {
+          "A": "640.",
+          "B": "680.",
+          "C": "720.",
+          "D": "900."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Um capital de R$ 2.000,00 é aplicado por dois meses à taxa de 10% ao mês. A diferença entre o montante obtido por juros compostos e o montante obtido por juros simples é",
+        "options": {
+          "A": "R$ 20,00.",
+          "B": "R$ 40,00.",
+          "C": "R$ 200,00.",
+          "D": "R$ 220,00."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Uma tabela de embalagem registra as dimensões e a quantidade de caixas a serem armazenadas: | Item | Comprimento | Largura | Altura | Quantidade | |---|---:|---:|---:|---:| | Caixa plástica | 80 cm | 50 cm | 40 cm | 12 | O volume total ocupado pelas 12 caixas, em metros cúbicos, é",
+        "options": {
+          "A": "0,192 m³.",
+          "B": "1,20 m³.",
+          "C": "1,92 m³.",
+          "D": "19,20 m³."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No contexto da administração de materiais, a finalidade mais abrangente da gestão de um almoxarifado público é",
+        "options": {
+          "A": "manter o maior volume possível de itens armazenados, independentemente da demanda.",
+          "B": "assegurar materiais adequados, na quantidade e no momento necessários, com controle de custos e redução de perdas.",
+          "C": "substituir o planejamento das unidades requisitantes por decisões exclusivamente do almoxarife.",
+          "D": "concentrar todos os materiais em um único local, ainda que isso dificulte a distribuição."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para evitar duplicidade de itens e facilitar o controle, uma boa prática de classificação, codificação, especificação e padronização é",
+        "options": {
+          "A": "usar nomes informais diferentes para o mesmo material, conforme o setor solicitante.",
+          "B": "criar um código único e uma descrição objetiva, com unidade de fornecimento e características padronizadas.",
+          "C": "registrar somente a marca comercial, sem informar dimensões ou unidade de medida.",
+          "D": "alterar o código do item a cada entrada, para identificar o fornecedor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A nota fiscal indica 100 unidades de determinado material, mas a entrega contém 92 unidades, sendo 8 avariadas. O procedimento mais adequado é",
+        "options": {
+          "A": "lançar as 100 unidades como recebidas e resolver a diferença apenas no inventário anual.",
+          "B": "recusar automaticamente toda a carga, mesmo que parte esteja em condições de uso e o contrato permita recebimento parcial.",
+          "C": "registrar a divergência, segregar as unidades avariadas, comunicar o responsável e regularizar o recebimento antes do lançamento definitivo integral.",
+          "D": "distribuir imediatamente as 92 unidades e descartar as avariadas sem registro."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para materiais com prazo de validade, quando a regra adotada é retirar primeiro o lote cuja validade termina antes, utiliza-se o método",
+        "options": {
+          "A": "LIFO (último que entra, primeiro que sai).",
+          "B": "custo médio ponderado.",
+          "C": "FEFO (primeiro que expira, primeiro que sai).",
+          "D": "localização aleatória."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo médio de um item é de 40 unidades por dia. O prazo médio de reposição é de 5 dias e o estoque de segurança é de 60 unidades. Considerando ponto de reposição = consumo durante o prazo de reposição + estoque de segurança, o ponto de reposição é de",
+        "options": {
+          "A": "140 unidades.",
+          "B": "200 unidades.",
+          "C": "240 unidades.",
+          "D": "260 unidades."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Assinale a alternativa correta sobre níveis de estoque.",
+        "options": {
+          "A": "O estoque de segurança é destinado ao consumo rotineiro e deve ser sempre igual ao estoque máximo.",
+          "B": "O estoque mínimo corresponde necessariamente a zero, pois qualquer reserva representa excesso.",
+          "C": "O estoque máximo funciona como limite planejado de acumulação, enquanto o estoque de segurança protege contra variações de demanda ou de prazo de entrega.",
+          "D": "O estoque médio é calculado apenas pela quantidade de itens danificados no período."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na classificação ABC, os itens da classe A, em regra,",
+        "options": {
+          "A": "são numerosos e possuem baixo impacto no valor total consumido, exigindo controle simplificado.",
+          "B": "representam parcela menor dos itens, mas concentram maior valor de consumo, justificando controle mais rigoroso.",
+          "C": "são necessariamente os materiais de maior volume físico, independentemente do valor.",
+          "D": "são itens sem movimentação, que devem ser baixados automaticamente."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um almoxarifado apresenta consumo anual de 2.400 unidades e estoque médio de 600 unidades. Considerando consumo médio mensal de 200 unidades, a rotatividade anual e a cobertura aproximada do estoque são, respectivamente,",
+        "options": {
+          "A": "2 vezes ao ano e 1 mês.",
+          "B": "4 vezes ao ano e 3 meses.",
+          "C": "4 vezes ao ano e 12 meses.",
+          "D": "6 vezes ao ano e 4 meses."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante um inventário físico, a prática mais adequada para garantir planejamento, execução e conciliação confiáveis é",
+        "options": {
+          "A": "contar os itens sem identificar os responsáveis e ajustar os saldos livremente ao final.",
+          "B": "interromper ou controlar as movimentações, definir equipe e método de contagem, realizar conferências e comparar os resultados com os registros, documentando as diferenças.",
+          "C": "considerar correto o saldo do sistema, dispensando a contagem física.",
+          "D": "contar apenas os materiais da classe C, pois os demais já possuem controle suficiente."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No controle de entradas e saídas, quando são recebidas 50 unidades e distribuídas 18 unidades de um item cujo saldo anterior era de 30, o saldo registrado, sem outras movimentações, deve ser",
+        "options": {
+          "A": "2 unidades.",
+          "B": "48 unidades.",
+          "C": "62 unidades.",
+          "D": "98 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um sistema de registro de estoque confiável deve",
+        "options": {
+          "A": "registrar somente o saldo final do ano, sem indicar documentos ou datas.",
+          "B": "permitir o acompanhamento das entradas, saídas e saldo, vinculando as movimentações aos documentos e às datas correspondentes.",
+          "C": "excluir automaticamente os lançamentos antigos, para reduzir o volume de dados.",
+          "D": "permitir lançamentos sem identificação do item, desde que o valor financeiro seja informado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para prevenir perdas, danos, deterioração e obsolescência, é adequado",
+        "options": {
+          "A": "armazenar todos os materiais no piso, para facilitar o acesso.",
+          "B": "manter itens sem identificação até que sejam solicitados, evitando retrabalho.",
+          "C": "controlar validade e condições ambientais, adotar embalagem e manuseio adequados e revisar periodicamente itens parados.",
+          "D": "misturar lotes e materiais incompatíveis, desde que ocupem o mesmo endereço."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na gestão e conservação de bens móveis da Administração, uma conduta adequada é",
+        "options": {
+          "A": "deixar a responsabilidade difusa, sem registro de localização ou usuário.",
+          "B": "realizar manutenção preventiva, conservar o bem em condições apropriadas e comunicar defeitos ou necessidade de reparo.",
+          "C": "substituir o registro patrimonial por anotações pessoais do usuário.",
+          "D": "descartar o bem assim que apresentar qualquer falha, sem avaliação ou autorização."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O tombamento de um bem móvel público tem, entre suas finalidades,",
+        "options": {
+          "A": "transformar automaticamente o bem em material de consumo.",
+          "B": "identificar e registrar o bem patrimonial, associando-o a informações como descrição, localização e responsável.",
+          "C": "dispensar inventários futuros, pois o número patrimonial torna a conferência desnecessária.",
+          "D": "autorizar a alienação do bem sem processo administrativo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Uma impressora patrimoniada será transferida de uma secretaria para outra. O procedimento correto é",
+        "options": {
+          "A": "dar baixa na impressora e comprar outra para a unidade de destino.",
+          "B": "realizar a transferência formal, atualizar a localização e o responsável no registro patrimonial e manter a rastreabilidade do bem.",
+          "C": "apenas alterar a etiqueta manualmente, sem documento ou atualização no sistema.",
+          "D": "retirar o número de tombamento para que a unidade de destino faça novo cadastro."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Uma solicitação de compra compatível com os princípios básicos da Administração Pública deve, antes do encaminhamento do pedido,",
+        "options": {
+          "A": "ser feita verbalmente, para acelerar a aquisição, ainda que não haja justificativa.",
+          "B": "conter a necessidade, a especificação e a quantidade, seguir o procedimento administrativo aplicável, com pesquisa de preços e autorização competente.",
+          "C": "indicar fornecedor escolhido previamente pelo solicitante, sem justificativa ou comparação.",
+          "D": "ser encaminhada diretamente ao fornecedor, sem registro da demanda ou disponibilidade administrativa."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao realizar pesquisa ou coleta de preços para uma aquisição, o almoxarife deve priorizar",
+        "options": {
+          "A": "propostas incomparáveis, pois a menor cifra nominal sempre é suficiente.",
+          "B": "o registro das fontes, datas, especificações, unidades, condições de entrega e demais elementos que permitam comparar as propostas de forma objetiva.",
+          "C": "a consulta a um único fornecedor indicado informalmente, dispensando documentação.",
+          "D": "a escolha de uma marca específica, mesmo quando não houver justificativa técnica."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para acompanhar pedidos e apoiar os controles administrativos, é adequado",
+        "options": {
+          "A": "encaminhar o pedido autorizado e arquivá-lo sem verificar prazo, entrega ou pendências.",
+          "B": "acompanhar prazo e condições pactuadas, registrar contatos e ocorrências, conferir a entrega e informar a unidade solicitante em relatório ou controle próprio.",
+          "C": "alterar a quantidade solicitada diretamente com o fornecedor, sem ciência da autoridade competente.",
+          "D": "considerar concluído o pedido no momento de seu envio, independentemente da entrega."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre segurança, ergonomia, prevenção de acidentes e equipamentos de proteção individual (EPI), assinale a alternativa correta.",
+        "options": {
+          "A": "O EPI elimina a necessidade de treinamento e de organização do local de trabalho.",
+          "B": "Para levantar uma carga, deve-se priorizar postura estável, aproximar a carga do corpo, evitar torções e usar o EPI adequado ao risco identificado.",
+          "C": "A carga deve ser transportada sempre acima da linha dos ombros, para ampliar o campo de visão.",
+          "D": "Corredores podem permanecer parcialmente obstruídos se o material for de saída rápida."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "03-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Conforme as atribuições do cargo de Almoxarife, ao receber um pedido de fornecimento devidamente assinado pela autoridade competente, é correto",
+        "options": {
+          "A": "encaminhá-lo ao fornecedor, promover o abastecimento conforme a solicitação, adotar medidas para a pronta entrega e manter os registros atualizados.",
+          "B": "encaminhá-lo diretamente para pagamento, sem conferir a mercadoria ou registrar a saída.",
+          "C": "substituir a autorização por uma ordem verbal e escolher quantidade diferente da solicitada para aproveitar o espaço.",
+          "D": "aguardar o inventário anual para decidir se o pedido será atendido, ainda que haja material disponível."
         },
         "correct": "A",
         "explanation": [
@@ -2205,6 +4401,738 @@ export const simulados: Simulado[] = [
     ]
   },
   {
+    "id": "04-almoxarife-superior",
+    "title": "Simulado autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "04-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "> Em um almoxarifado, a rapidez é importante, mas não dispensa a conferência. Quando os materiais estão identificados e os registros são atualizados, a equipe atende às solicitações com agilidade sem perder o controle. Assim, o planejamento reduz compras urgentes, retrabalho e desperdícios.",
+        "statement": "De acordo com o texto, é correto afirmar que:",
+        "options": {
+          "A": "a rapidez torna desnecessária a conferência dos materiais.",
+          "B": "o planejamento deve ser substituído por compras urgentes.",
+          "C": "a identificação e os registros atualizados favorecem a agilidade com controle.",
+          "D": "o retrabalho é inevitável quando a equipe atende às solicitações rapidamente."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "> Em um almoxarifado, a rapidez é importante, mas não dispensa a conferência. Quando os materiais estão identificados e os registros são atualizados, a equipe atende às solicitações com agilidade sem perder o controle. Assim, o planejamento reduz compras urgentes, retrabalho e desperdícios.",
+        "statement": "No trecho “não dispensa a conferência”, a expressão destacada pode ser substituída, sem alteração essencial de sentido, por:",
+        "options": {
+          "A": "não prescinde da conferência.",
+          "B": "não impede a conferência.",
+          "C": "não registra a conferência.",
+          "D": "não antecipa a conferência."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+        "options": {
+          "A": "A exceção foi registrada no relatório de recebimento.",
+          "B": "A comissão analizou a documentação do fornecedor.",
+          "C": "O fornecedor reinvindicou a troca das embalagens.",
+          "D": "O servidor previniu a chefia sobre a divergência."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa cuja pontuação está adequada à norma-padrão.",
+        "options": {
+          "A": "Após a conferência, o servidor registrou a entrada, separou os itens e comunicou a chefia.",
+          "B": "Após a conferência o servidor, registrou a entrada, separou os itens e comunicou a chefia.",
+          "C": "Após a conferência, o servidor registrou a entrada separou os itens, e comunicou a chefia.",
+          "D": "Após, a conferência o servidor registrou a entrada, separou os itens e comunicou a chefia."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a acentuação gráfica está correta em todas as palavras.",
+        "options": {
+          "A": "O relatório registrou a saída do veículo e o nível de estoque.",
+          "B": "O relatorio registrou a saída do veículo e o nível de estoque.",
+          "C": "O relatório registrou a saida do veiculo e o nivel de estoque.",
+          "D": "O relatório registrou a saída do veiculo e o nível de estoque."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “As caixas novas chegaram ontem”, as palavras “novas” e “ontem” são, respectivamente:",
+        "options": {
+          "A": "substantivo e adjetivo.",
+          "B": "adjetivo e advérbio.",
+          "C": "advérbio e pronome.",
+          "D": "pronome e substantivo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a concordância verbal está correta.",
+        "options": {
+          "A": "Faltam três itens para completar o pedido.",
+          "B": "Falta três itens para completar o pedido.",
+          "C": "Faltam três item para completar o pedido.",
+          "D": "Faltará três itens para completar o pedido."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a concordância nominal está correta.",
+        "options": {
+          "A": "Seguem anexa as cópias das notas fiscais.",
+          "B": "Segue anexas as cópias das notas fiscais.",
+          "C": "Seguem anexas as cópias das notas fiscais.",
+          "D": "Seguem anexo as cópias das notas fiscais."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que atende à regência verbal e nominal da norma-padrão.",
+        "options": {
+          "A": "O servidor obedeceu as normas e informou o fato a chefia.",
+          "B": "O servidor obedeceu às normas e informou o fato à chefia.",
+          "C": "O servidor obedeceu pelas normas e informou o fato na chefia.",
+          "D": "O servidor obedeceu com as normas e informou o fato para à chefia."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "A equipe dirigiu-se à unidade solicitante.",
+          "B": "A equipe dirigiu-se à uma unidade solicitante.",
+          "C": "A equipe entregou o material à todos os setores.",
+          "D": "A equipe começou à conferir os documentos."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão.",
+        "options": {
+          "A": "Não devem-se misturar materiais incompatíveis.",
+          "B": "Não se devem misturar materiais incompatíveis.",
+          "C": "Não devem misturar-se materiais incompatíveis-se.",
+          "D": "Se não devem misturar materiais incompatíveis."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "passage": "Na conferência, Marta notou que o pedido previa 30 caixas, mas a nota fiscal indicava 32. Ela separou as duas excedentes e comunicou a divergência ao responsável.",
+        "statement": "Leia o período a seguir. O pronome “Ela” retoma:",
+        "options": {
+          "A": "a conferência.",
+          "B": "a nota fiscal.",
+          "C": "Marta.",
+          "D": "a divergência."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência nominal está correta.",
+        "options": {
+          "A": "O procedimento é compatível às normas internas.",
+          "B": "O procedimento é compatível pelas normas internas.",
+          "C": "O procedimento é compatível com as normas internas.",
+          "D": "O procedimento é compatível nas normas internas."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à concordância e ao emprego do verbo “haver”.",
+        "options": {
+          "A": "Haviam materiais vencidos no lote.",
+          "B": "Houveram divergências durante a conferência.",
+          "C": "Havia materiais vencidos no lote.",
+          "D": "Existia materiais vencidos no lote."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "No período “Quando o inventário terminou, a equipe registrou as divergências”, a palavra “quando” estabelece relação de:",
+        "options": {
+          "A": "causa.",
+          "B": "condição.",
+          "C": "finalidade.",
+          "D": "tempo."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "No controle de um item, o saldo inicial era desconhecido. Após a entrada de 35 unidades e a saída de 52, o saldo final ficou em 83 unidades. Considerando a equação x + 35 - 52 = 83, o saldo inicial x era de:",
+        "options": {
+          "A": "65 unidades.",
+          "B": "83 unidades.",
+          "C": "100 unidades.",
+          "D": "117 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Uma equipe separa 30 caixas em 2 horas e, mantendo o mesmo ritmo, separa 60 caixas em 4 horas. Mantida a proporcionalidade direta, quantas caixas serão separadas em 7 horas?",
+        "options": {
+          "A": "75.",
+          "B": "90.",
+          "C": "105.",
+          "D": "120."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Quatro servidores, trabalhando 6 horas por dia, separam 960 itens em determinado período. Mantida a mesma produtividade individual, quantos itens serão separados por cinco servidores que trabalharem 8 horas por dia no mesmo período?",
+        "options": {
+          "A": "1.200.",
+          "B": "1.440.",
+          "C": "1.560.",
+          "D": "1.600."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Um recurso de R$ 2.000,00 pode ser aplicado por dois meses à taxa de 10% ao mês. A diferença entre o montante obtido pelo regime de juros compostos e o montante obtido pelo regime de juros simples é de:",
+        "options": {
+          "A": "R$ 20,00.",
+          "B": "R$ 40,00.",
+          "C": "R$ 200,00.",
+          "D": "R$ 220,00."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Uma caixa retangular mede 0,5 m de comprimento, 0,4 m de largura e 0,3 m de altura. Considerando que 1 m³ corresponde a 1.000 litros, a área da base e o volume da caixa são, respectivamente:",
+        "options": {
+          "A": "0,20 m² e 6 litros.",
+          "B": "0,20 m² e 60 litros.",
+          "C": "1,20 m² e 60 litros.",
+          "D": "1,20 m² e 600 litros."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na administração de materiais, o objetivo central do almoxarifado é:",
+        "options": {
+          "A": "manter o maior volume possível de materiais, independentemente do custo.",
+          "B": "assegurar a disponibilidade do material adequado, na quantidade e no momento necessários, com controle de custos e registros.",
+          "C": "substituir o planejamento por aquisições emergenciais sempre que houver solicitação.",
+          "D": "concentrar todos os itens em um único local, sem distinção de uso ou valor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao receber um pedido cuja nota fiscal indica 100 unidades, enquanto o pedido de fornecimento autorizado indica 90, a conduta mais adequada é:",
+        "options": {
+          "A": "distribuir imediatamente as 100 unidades e ajustar o sistema posteriormente.",
+          "B": "recusar verbalmente a carga, sem registrar a divergência.",
+          "C": "conferir e segregar a diferença, registrar a ocorrência e solicitar a regularização antes da liberação definitiva.",
+          "D": "alterar o pedido no sistema para que coincida com a nota fiscal, sem consultar a autoridade competente."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre classificação, codificação, especificação e padronização de materiais, assinale a alternativa correta.",
+        "options": {
+          "A": "A codificação deve variar conforme o servidor que realiza o lançamento.",
+          "B": "A especificação pode ser genérica, desde que o item tenha preço conhecido.",
+          "C": "A padronização e a especificação objetiva reduzem duplicidades e facilitam a identificação, a compra e o controle.",
+          "D": "A classificação serve apenas para fins contábeis e não interfere na localização física."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na conferência de uma entrega, além da quantidade, o almoxarife deve confrontar principalmente:",
+        "options": {
+          "A": "somente a cor da embalagem com a preferência do servidor que recebe.",
+          "B": "a nota fiscal, o pedido de fornecimento e as características do material, verificando descrição, unidade, integridade e condições da entrega.",
+          "C": "apenas o valor total da nota fiscal, pois os demais dados são de responsabilidade exclusiva do fornecedor.",
+          "D": "o pedido com um orçamento antigo, ainda que haja autorização de compra mais recente."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para materiais que possuem prazo de validade, o método de saída que prioriza o lote com vencimento mais próximo é conhecido como:",
+        "options": {
+          "A": "LIFO, último que entra, primeiro que sai.",
+          "B": "FEFO, primeiro que vence, primeiro que sai.",
+          "C": "lote fixo, no qual todos os lotes saem simultaneamente.",
+          "D": "armazenagem aleatória sem consideração da validade."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo médio de determinado material é de 20 unidades por dia, o prazo de reposição é de 5 dias e o estoque de segurança é de 30 unidades. Desconsiderando outras variáveis, o ponto de reposição é de:",
+        "options": {
+          "A": "50 unidades.",
+          "B": "100 unidades.",
+          "C": "120 unidades.",
+          "D": "130 unidades."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Se o estoque mínimo de um item é de 100 unidades e o estoque máximo é de 300 unidades, o estoque médio teórico, calculado pela média aritmética desses dois níveis, é de:",
+        "options": {
+          "A": "150 unidades.",
+          "B": "180 unidades.",
+          "C": "200 unidades.",
+          "D": "300 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na curva ABC, os itens classificados como classe A são, em regra:",
+        "options": {
+          "A": "numerosos e de baixo valor de consumo, exigindo controle mínimo.",
+          "B": "poucos em quantidade relativa, mas relevantes pelo alto valor de consumo, exigindo controle mais rigoroso.",
+          "C": "exclusivamente materiais perecíveis, independentemente de seu valor.",
+          "D": "itens sem movimentação que devem ser automaticamente baixados."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um item apresenta consumo anual de 2.400 unidades e estoque médio de 400 unidades. Considerando 12 meses no ano, sua rotatividade anual e sua cobertura aproximada são, respectivamente:",
+        "options": {
+          "A": "4 giros e 3 meses.",
+          "B": "5 giros e 2,4 meses.",
+          "C": "6 giros e 2 meses.",
+          "D": "8 giros e 1,5 mês."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No planejamento de um inventário físico, uma medida adequada é:",
+        "options": {
+          "A": "contar somente os itens de maior valor e estimar os demais.",
+          "B": "definir escopo, data, equipe e procedimentos; realizar a contagem; confrontar com os registros e investigar as divergências antes da conciliação.",
+          "C": "alterar os saldos do sistema antes da contagem para facilitar a conferência.",
+          "D": "permitir movimentações sem registro durante a contagem, pois elas não afetam o resultado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um sistema confiável de controle de entradas e saídas deve:",
+        "options": {
+          "A": "registrar apenas as entradas, deixando as saídas para conferência anual.",
+          "B": "atualizar o saldo a cada movimentação, vinculando-a ao documento, à data, à quantidade e ao responsável.",
+          "C": "permitir lançamentos sem data para agilizar o atendimento dos setores.",
+          "D": "substituir a conferência física por estimativas baseadas no consumo médio."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao identificar material danificado, deteriorado ou obsoleto, o almoxarife deve, como procedimento de controle:",
+        "options": {
+          "A": "descartá-lo imediatamente, sem registro, para liberar espaço.",
+          "B": "misturá-lo aos itens em condições de uso para evitar diferença no inventário.",
+          "C": "segregá-lo, registrar a ocorrência, avaliar a causa e a destinação conforme os procedimentos e autorizações aplicáveis.",
+          "D": "alterar sua descrição no cadastro e mantê-lo disponível para distribuição normal."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O tombamento de um bem móvel público consiste, principalmente, em:",
+        "options": {
+          "A": "consumi-lo no estoque assim que for recebido.",
+          "B": "atribuir identificação patrimonial e registrar dados do bem, sua localização e responsabilidade, conforme o controle patrimonial.",
+          "C": "aplicar uma etiqueta sem lançar qualquer informação no sistema.",
+          "D": "substituir o inventário patrimonial por uma nota fiscal arquivada."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Quanto à movimentação, à transferência e à baixa de bens patrimoniais, é correto afirmar que:",
+        "options": {
+          "A": "a transferência entre unidades dispensa registro, se o bem continuar no mesmo município.",
+          "B": "a baixa pode ser feita informalmente quando o bem estiver antigo, sem autorização ou documento.",
+          "C": "a transferência deve ser formalmente registrada e a baixa deve observar a autorização e a documentação previstas nos procedimentos aplicáveis.",
+          "D": "bens tombados não podem mudar de localização em nenhuma hipótese."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Nas noções de compras e contratações públicas, a atuação adequada do almoxarife ao preparar uma aquisição é:",
+        "options": {
+          "A": "escolher diretamente o fornecedor de sua preferência, sem pesquisa ou autorização.",
+          "B": "elaborar a solicitação com a necessidade e a especificação do material, apoiar a pesquisa de preços e encaminhar o expediente pelo procedimento competente.",
+          "C": "iniciar a compra apenas depois que o material acabar, sem considerar o prazo de reposição.",
+          "D": "substituir a especificação do material por uma marca, ainda que isso não seja necessário para definir o objeto."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No acompanhamento de pedidos e na gestão de fornecedores, é boa prática:",
+        "options": {
+          "A": "aguardar o vencimento do prazo sem consultar o fornecedor ou registrar contatos.",
+          "B": "monitorar prazo, quantidade e qualidade, documentar as comunicações e informar tempestivamente atrasos ou inconformidades à área competente.",
+          "C": "aceitar qualquer substituição de material sem verificar a especificação autorizada.",
+          "D": "encerrar o controle do pedido no momento de seu encaminhamento ao fornecedor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A logística e a cadeia de suprimentos podem ser compreendidas como:",
+        "options": {
+          "A": "conjunto restrito às atividades de transporte externo, sem relação com informações.",
+          "B": "fluxo integrado de materiais e informações, desde fornecedores e compras até recebimento, armazenagem e atendimento aos usuários.",
+          "C": "processo em que cada setor atua isoladamente, sem compartilhamento de dados.",
+          "D": "atividade que busca apenas reduzir o preço unitário, mesmo que aumente perdas e atrasos."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um relatório administrativo de almoxarifado é mais útil para a tomada de decisão quando:",
+        "options": {
+          "A": "apresenta somente o saldo final, sem período de referência ou fonte dos dados.",
+          "B": "reúne período, entradas, saídas, saldos, divergências e indicadores pertinentes, com dados rastreáveis e linguagem clara.",
+          "C": "omite perdas e materiais obsoletos para evitar apontamentos.",
+          "D": "substitui os documentos comprobatórios por opiniões dos usuários."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Se um agente público direciona uma aquisição a fornecedor conhecido, sem critérios objetivos e para favorecê-lo, a conduta afronta diretamente o princípio da:",
+        "options": {
+          "A": "impessoalidade.",
+          "B": "publicidade.",
+          "C": "continuidade do serviço público.",
+          "D": "autotutela."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "04-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante a movimentação manual de uma carga, a conduta mais segura e ergonomicamente adequada é:",
+        "options": {
+          "A": "levantar a carga com a coluna curvada e mantê-la afastada do corpo.",
+          "B": "girar o tronco enquanto se levanta a carga, para economizar tempo.",
+          "C": "avaliar o peso, utilizar auxílio mecânico quando necessário, manter a carga próxima ao corpo, flexionar os joelhos e usar o EPI indicado.",
+          "D": "retirar as luvas e os calçados de segurança para aumentar a sensibilidade e a velocidade."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
     "id": "05-acs",
     "title": "Simulado Autoral — Agente Comunitário de Saúde",
     "cargo": "Agente Comunitário de Saúde",
@@ -2755,6 +5683,1469 @@ export const simulados: Simulado[] = [
     ]
   },
   {
+    "id": "05-almoxarife-superior",
+    "title": "Simulado autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "05-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "Em uma unidade pública, a eficiência do almoxarifado não depende apenas de manter grande quantidade de itens armazenados. É necessário equilibrar a disponibilidade dos materiais com o controle dos custos, a atualização dos registros e a conservação dos bens. Assim, o setor consegue atender às requisições sem transformar o estoque em depósito desorganizado ou em fonte de perdas.",
+        "statement": "A ideia central do texto é que:",
+        "options": {
+          "A": "o almoxarifado deve manter o maior volume possível de materiais, ainda que haja desperdícios.",
+          "B": "os registros de estoque são dispensáveis quando o depósito está organizado.",
+          "C": "a eficiência do almoxarifado exige equilíbrio entre disponibilidade, controle e conservação.",
+          "D": "a redução de custos deve prevalecer sempre, mesmo que faltem materiais para o atendimento."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "Em uma unidade pública, a eficiência do almoxarifado não depende apenas de manter grande quantidade de itens armazenados. É necessário equilibrar a disponibilidade dos materiais com o controle dos custos, a atualização dos registros e a conservação dos bens. Assim, o setor consegue atender às requisições sem transformar o estoque em depósito desorganizado ou em fonte de perdas.",
+        "statement": "No texto, a palavra “equilibrar” pode ser substituída, sem prejuízo do sentido, por:",
+        "options": {
+          "A": "ocultar.",
+          "B": "conciliar.",
+          "C": "interromper.",
+          "D": "restringir."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+        "options": {
+          "A": "A equipe analisou a exceção e atualizou o estoque.",
+          "B": "A equipe analisou a excessão e atualizou o estoque.",
+          "C": "A equipe realizou a paralização do setor para a conferência.",
+          "D": "O servidor recebeu um previlégio para dispensar a inspeção."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa cuja pontuação está correta.",
+        "options": {
+          "A": "Após conferir os itens o servidor, registrou a entrada.",
+          "B": "Após conferir os itens, o servidor registrou a entrada.",
+          "C": "O servidor, registrou a entrada após conferir os itens.",
+          "D": "Após, conferir os itens o servidor registrou a entrada."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a acentuação gráfica está correta.",
+        "options": {
+          "A": "A saída foi registrada no relatório.",
+          "B": "A saìda foi registrada no relatorio.",
+          "C": "A saída foi registrada no relátorio.",
+          "D": "A saida foi registrada no relatório."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “Os materiais frágeis foram cuidadosamente embalados”, a palavra “cuidadosamente” é classificada como:",
+        "options": {
+          "A": "substantivo.",
+          "B": "adjetivo.",
+          "C": "advérbio.",
+          "D": "conjunção."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa de acordo com a norma-padrão de concordância verbal.",
+        "options": {
+          "A": "Houveram divergências no inventário.",
+          "B": "Faz dois meses que o pedido foi aberto.",
+          "C": "Existe materiais suficientes no depósito.",
+          "D": "Deve haverem novas conferências amanhã."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa de acordo com a norma-padrão de concordância nominal.",
+        "options": {
+          "A": "Seguem anexas as notas fiscais.",
+          "B": "Segue anexas as notas fiscais.",
+          "C": "Seguem anexo as notas fiscais.",
+          "D": "Segue anexa as notas fiscais."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência verbal está correta.",
+        "options": {
+          "A": "O servidor obedeceu as normas do setor.",
+          "B": "O servidor preferiu mais o método manual.",
+          "C": "O servidor aspirou ao cargo de responsável pelo estoque.",
+          "D": "O servidor informou ao chefe de que havia divergência."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a regência nominal está correta.",
+        "options": {
+          "A": "O relatório é compatível ao saldo registrado.",
+          "B": "O relatório é compatível com o saldo registrado.",
+          "C": "O relatório é compatível no saldo registrado.",
+          "D": "O relatório é compatível pelo saldo registrado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "A equipe entregou o material à cada setor requisitante.",
+          "B": "O servidor começou à conferir as embalagens.",
+          "C": "A mercadoria foi enviada à uma unidade próxima.",
+          "D": "A entrega ocorrerá às 14 horas e será encaminhada à unidade requisitante."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que apresenta colocação pronominal adequada à norma-padrão.",
+        "options": {
+          "A": "Não se devem misturar materiais incompatíveis.",
+          "B": "Não devem-se misturar materiais incompatíveis.",
+          "C": "Se devem não misturar materiais incompatíveis.",
+          "D": "Devem não-se misturar materiais incompatíveis. ### Texto para a questão 13 O conferente recebeu o lote e o encaminhou à área de inspeção, onde os produtos foram examinados antes do armazenamento."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "No texto, o pronome “o”, em “o encaminhou”, retoma:",
+        "options": {
+          "A": "o conferente.",
+          "B": "o lote.",
+          "C": "o armazenamento.",
+          "D": "o exame."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “O almoxarife, responsável pelo setor, elaborou o relatório”, as vírgulas foram empregadas para:",
+        "options": {
+          "A": "separar o sujeito do predicado.",
+          "B": "indicar uma enumeração de objetos.",
+          "C": "introduzir uma oração subordinada adverbial.",
+          "D": "isolar uma expressão explicativa referente ao almoxarife."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "Em “Ao concluir a conferência, o servidor comunicou a divergência à chefia”, a oração “Ao concluir a conferência” expressa circunstância de:",
+        "options": {
+          "A": "causa.",
+          "B": "condição.",
+          "C": "tempo.",
+          "D": "finalidade. ---"
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "O resultado de `(-12) + 18 ÷ 3 - (-5)` é:",
+        "options": {
+          "A": "-1.",
+          "B": "1.",
+          "C": "-11.",
+          "D": "11."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Para atender a 48 setores, um almoxarifado utiliza 12 caixas de determinado material, mantendo-se a mesma proporção. Para atender a 80 setores, serão necessárias 20 caixas. Se for acrescentada uma reserva de 10% sobre essa quantidade, o total a separar será de:",
+        "options": {
+          "A": "20 caixas.",
+          "B": "21 caixas.",
+          "C": "22 caixas.",
+          "D": "24 caixas."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Um recurso de R$ 1.000,00 é aplicado a juros compostos de 10% ao mês, durante dois meses, sem novos depósitos ou retiradas. O montante ao final do período será de:",
+        "options": {
+          "A": "R$ 1.100,00.",
+          "B": "R$ 1.210,00.",
+          "C": "R$ 1.200,00.",
+          "D": "R$ 1.020,00."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Uma sala de armazenamento retangular mede 4 m de comprimento, 5 m de largura e 3 m de altura. A área do piso e o volume interno da sala são, respectivamente:",
+        "options": {
+          "A": "9 m² e 12 m³.",
+          "B": "20 m² e 60 m³.",
+          "C": "20 m³ e 60 m².",
+          "D": "60 m² e 20 m³."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "O quadro registra as movimentações mensais de um item. Considerando um estoque inicial de 300 unidades e a expressão `x = estoque inicial + entradas - saídas`, o estoque final `x` será: | Mês | Entradas | Saídas | |---|---:|---:| | Janeiro | 120 | 90 | | Fevereiro | 100 | 80 | | Março | 140 | 110 | | Abril | 160 | 130 |",
+        "options": {
+          "A": "300 unidades.",
+          "B": "390 unidades.",
+          "C": "400 unidades.",
+          "D": "410 unidades. ---"
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na administração de materiais, o objetivo principal de um almoxarifado público é:",
+        "options": {
+          "A": "acumular materiais para evitar qualquer nova aquisição.",
+          "B": "assegurar o atendimento das necessidades com controle de custos, disponibilidade e conservação.",
+          "C": "substituir o planejamento de compras por aquisições urgentes.",
+          "D": "manter todos os itens em um único local, independentemente de sua natureza."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre classificação, codificação, especificação e padronização de materiais, assinale a alternativa correta.",
+        "options": {
+          "A": "A codificação deve mudar sempre que o material for movimentado de local.",
+          "B": "A especificação deve ser genérica, para permitir que cada fornecedor entregue um item diferente.",
+          "C": "A classificação agrupa materiais por características; a codificação identifica-os; a especificação descreve seus requisitos; e a padronização reduz variedades desnecessárias.",
+          "D": "A padronização impede o controle de entradas e saídas, pois elimina a identificação individual dos materiais."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na conferência de uma entrega, o pedido e a nota fiscal indicam 100 unidades, mas a contagem física encontra apenas 96. O procedimento mais adequado é:",
+        "options": {
+          "A": "registrar a quantidade efetivamente recebida, documentar a divergência e encaminhá-la para providências.",
+          "B": "lançar 100 unidades, pois a nota fiscal prevalece sobre a contagem física.",
+          "C": "completar o registro com quatro unidades de outro item semelhante.",
+          "D": "armazenar a entrega sem inspeção e corrigir o saldo somente no inventário anual."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um almoxarifado armazena produtos com diferentes datas de validade. Para reduzir o risco de vencimento, o método de saída mais adequado é o:",
+        "options": {
+          "A": "LIFO, retirando primeiro o item que entrou por último.",
+          "B": "aleatório, conforme a facilidade de acesso à prateleira.",
+          "C": "maior volume primeiro, independentemente da validade.",
+          "D": "FEFO, retirando primeiro o item cuja validade se encerra antes."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo médio de um item é de 20 unidades por dia, o prazo de reposição é de 5 dias e o estoque de segurança é de 30 unidades. Considerando `ponto de reposição = consumo durante o prazo + estoque de segurança`, o ponto de reposição será de:",
+        "options": {
+          "A": "50 unidades.",
+          "B": "130 unidades.",
+          "C": "100 unidades.",
+          "D": "150 unidades."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Assinale a alternativa correta sobre níveis de estoque.",
+        "options": {
+          "A": "Estoque máximo é a quantidade disponível imediatamente antes de uma ruptura, sem relação com espaço ou política de abastecimento.",
+          "B": "Estoque médio é sempre igual ao estoque de segurança e serve exclusivamente para cobrir atrasos.",
+          "C": "Estoque de segurança funciona como proteção contra variações de consumo ou de prazo, enquanto o ponto de reposição sinaliza o momento de iniciar novo abastecimento.",
+          "D": "Estoque mínimo e ponto de reposição são necessariamente sinônimos em qualquer sistema de controle."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na análise pela curva ABC, os itens da classe A são, em regra:",
+        "options": {
+          "A": "poucos itens que concentram parcela elevada do valor anual de consumo e exigem controle mais rigoroso.",
+          "B": "a maioria dos itens, cada um com alto valor unitário e baixa relevância financeira.",
+          "C": "itens sem movimentação, que devem ser automaticamente descartados.",
+          "D": "materiais de baixo valor que não precisam de registro de entrada e saída."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Em um ano, determinado item teve consumo de 1.200 unidades e manteve estoque médio de 100 unidades. Considerando um ano de 360 dias, a rotatividade anual e a cobertura aproximada do estoque médio são, respectivamente:",
+        "options": {
+          "A": "6 giros e 60 dias.",
+          "B": "10 giros e 36 dias.",
+          "C": "12 giros e 30 dias.",
+          "D": "30 giros e 12 dias."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre inventários físicos, assinale a alternativa correta.",
+        "options": {
+          "A": "O inventário deve considerar apenas os itens de alto valor, pois os demais não afetam o controle.",
+          "B": "A contagem física pode ser dispensada quando o sistema informatizado estiver funcionando.",
+          "C": "Toda diferença encontrada deve ser apagada do sistema imediatamente, sem análise ou autorização.",
+          "D": "O inventário envolve planejamento, contagem, registro das divergências, investigação e conciliação entre o físico e os registros."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um registro permanente apresenta saldo inicial de 50 unidades. Em seguida, são lançadas uma entrada de 30 e uma saída de 18 unidades. O sistema de registro e o saldo esperado são, respectivamente:",
+        "options": {
+          "A": "registro periódico e 80 unidades.",
+          "B": "registro permanente e 62 unidades.",
+          "C": "registro patrimonial e 68 unidades.",
+          "D": "registro por lote anual e 18 unidades."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante a inspeção, são encontradas caixas molhadas e com sinais de deterioração. A conduta de controle de perdas mais adequada é:",
+        "options": {
+          "A": "segregar os materiais, registrar a ocorrência, avaliar a condição e encaminhar a decisão sobre aproveitamento ou baixa conforme as regras aplicáveis.",
+          "B": "misturar as caixas aos itens em bom estado para evitar que a perda apareça no inventário.",
+          "C": "distribuir imediatamente os materiais deteriorados, sem informar os setores requisitantes.",
+          "D": "eliminar os registros dos itens danificados, pois não integram mais o estoque utilizável."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um computador adquirido para uso permanente por um órgão municipal deve, em regra:",
+        "options": {
+          "A": "ser tratado como material de consumo e descartado do controle após a entrega.",
+          "B": "receber apenas uma etiqueta de prateleira, sem identificação patrimonial.",
+          "C": "ser tombado, receber identificação patrimonial e ser registrado com a unidade ou responsável por sua guarda.",
+          "D": "ser transferido a qualquer servidor que o solicite, sem documento de movimentação."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Quando um bem permanente se torna inutilizável, a baixa patrimonial deve ocorrer mediante:",
+        "options": {
+          "A": "retirada informal do bem e exclusão imediata do cadastro pelo almoxarife.",
+          "B": "processo ou documento autorizado, atualização do registro patrimonial e destinação conforme as normas aplicáveis.",
+          "C": "simples anotação no relatório mensal, sem necessidade de autorização.",
+          "D": "substituição da identificação do bem por outra, mantendo o mesmo cadastro."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Nas compras e contratações públicas, a atuação do almoxarife é compatível com a boa prática administrativa quando ele:",
+        "options": {
+          "A": "escolhe diretamente o fornecedor de sua preferência para acelerar a entrega.",
+          "B": "solicita propostas sem informar as especificações, para ampliar a liberdade dos fornecedores.",
+          "C": "autoriza sozinho a despesa sempre que o material for considerado urgente.",
+          "D": "prepara a solicitação, apoia a pesquisa de preços e encaminha o pedido pelos fluxos de autorização e contratação aplicáveis."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para realizar uma pesquisa ou coleta de preços confiável, deve-se:",
+        "options": {
+          "A": "comparar propostas com especificações, quantidades e condições equivalentes, registrando fontes e datas.",
+          "B": "aceitar o menor preço nominal, ainda que se refira a produto de especificação diferente.",
+          "C": "solicitar preço apenas ao fornecedor que já venceu a contratação anterior.",
+          "D": "dispensar o registro das consultas, pois a pesquisa serve apenas para informação interna."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Após o envio de um pedido autorizado ao fornecedor, o almoxarife deve, no acompanhamento da cadeia de suprimentos:",
+        "options": {
+          "A": "considerar encerrado o processo no momento do envio do pedido.",
+          "B": "alterar as especificações sem comunicar o setor requisitante, se houver atraso.",
+          "C": "monitorar prazo e condições, manter os registros e, no recebimento, conferir a entrega contra o pedido e os documentos.",
+          "D": "receber qualquer item substituto sem inspeção, desde que a quantidade total seja semelhante."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Quando aplicável ao serviço, o controle de entrada e saída de veículos do município exige que o responsável:",
+        "options": {
+          "A": "permita a saída de todo veículo após o carregamento, sem conferência documental.",
+          "B": "registre a movimentação e promova a liberação somente quando houver autorização correspondente.",
+          "C": "libere o veículo apenas com base no conhecimento pessoal do motorista.",
+          "D": "mantenha o veículo retido até o inventário anual, independentemente da finalidade da saída."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao supervisionar a arrumação e a embalagem de materiais e ao informar processos relativos ao serviço, o almoxarife deve elaborar relatório de controle administrativo que seja mais útil quando apresenta:",
+        "options": {
+          "A": "somente a quantidade total de itens armazenados, sem período de referência.",
+          "B": "opiniões pessoais sobre os fornecedores, sem dados de movimentação.",
+          "C": "apenas as aquisições realizadas, excluindo saídas e divergências.",
+          "D": "período, entradas, saídas, saldos, ocorrências, divergências e providências, de forma clara e rastreável."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A conduta do almoxarife que melhor observa os princípios básicos da Administração Pública é:",
+        "options": {
+          "A": "aplicar critérios objetivos e impessoais, agir conforme a lei, dar transparência aos atos e buscar eficiência.",
+          "B": "favorecer fornecedor conhecido quando o material for necessário ao serviço.",
+          "C": "omitir uma divergência para preservar a imagem do setor.",
+          "D": "dispensar registros formais quando a finalidade pública parecer evidente."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "05-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao movimentar uma caixa pesada, a prática mais segura e ergonomicamente adequada é:",
+        "options": {
+          "A": "levantar a carga com a coluna flexionada, mantendo os braços estendidos e sem avaliar o peso.",
+          "B": "transportar a caixa acima da altura dos olhos para liberar o corredor.",
+          "C": "avaliar o peso, usar auxílio mecânico ou trabalho em equipe quando necessário, manter postura segura e utilizar os EPIs indicados.",
+          "D": "retirar os EPIs para aumentar a agilidade, desde que o trajeto seja curto. ---"
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "06-almoxarife-superior",
+    "title": "Simulado autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "06-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "No almoxarifado municipal, a organização não se resume a empilhar caixas. Cada entrada é conferida, registrada e encaminhada ao endereço correto; cada saída, por sua vez, é autorizada e lançada no sistema. Com procedimentos simples, a equipe reduz perdas e transforma informação em decisão: sabe o que está disponível, o que precisa ser reposto e o que já não atende ao serviço. Assim, a rotina deixa de ser apenas operacional e passa a sustentar a continuidade das políticas públicas.",
+        "statement": "De acordo com o texto, a organização do almoxarifado é relevante porque",
+        "options": {
+          "A": "substitui a necessidade de autorização para a saída de materiais.",
+          "B": "permite decidir com base em registros e contribui para a continuidade dos serviços públicos.",
+          "C": "concentra o trabalho exclusivamente na arrumação física das caixas.",
+          "D": "elimina a necessidade de reposição de materiais."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "No almoxarifado municipal, a organização não se resume a empilhar caixas. Cada entrada é conferida, registrada e encaminhada ao endereço correto; cada saída, por sua vez, é autorizada e lançada no sistema. Com procedimentos simples, a equipe reduz perdas e transforma informação em decisão: sabe o que está disponível, o que precisa ser reposto e o que já não atende ao serviço. Assim, a rotina deixa de ser apenas operacional e passa a sustentar a continuidade das políticas públicas.",
+        "statement": "No trecho “cada saída, por sua vez, é autorizada e lançada no sistema”, a expressão destacada indica que a saída",
+        "options": {
+          "A": "é realizada antes de qualquer entrada.",
+          "B": "ocorre de modo aleatório, sem relação com os demais procedimentos.",
+          "C": "é considerada em sequência e em paralelo ao procedimento descrito para a entrada.",
+          "D": "deve ser feita somente por fornecedor externo."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "passage": "No almoxarifado municipal, a organização não se resume a empilhar caixas. Cada entrada é conferida, registrada e encaminhada ao endereço correto; cada saída, por sua vez, é autorizada e lançada no sistema. Com procedimentos simples, a equipe reduz perdas e transforma informação em decisão: sabe o que está disponível, o que precisa ser reposto e o que já não atende ao serviço. Assim, a rotina deixa de ser apenas operacional e passa a sustentar a continuidade das políticas públicas.",
+        "statement": "A expressão “transforma informação em decisão”, no contexto, está empregada para indicar que a equipe",
+        "options": {
+          "A": "converte fisicamente documentos em mercadorias.",
+          "B": "utiliza os dados registrados para orientar providências de gestão.",
+          "C": "dispensa o uso de sistemas de registro.",
+          "D": "toma decisões sem verificar o estoque disponível."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a palavra “deterioração” foi corretamente substituída, sem alteração relevante de sentido.",
+        "options": {
+          "A": "conservação.",
+          "B": "degradação.",
+          "C": "aquisição.",
+          "D": "padronização."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a ortografia oficial.",
+        "options": {
+          "A": "exceção, empecilho, privilégio.",
+          "B": "excessão, impecilho, previlégio.",
+          "C": "exceção, impecilho, privilégio.",
+          "D": "excessão, empecilho, previlégio."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa corretamente pontuada.",
+        "options": {
+          "A": "Ao receber os materiais o almoxarife, conferiu as quantidades.",
+          "B": "Ao receber os materiais, o almoxarife conferiu as quantidades.",
+          "C": "Ao receber, os materiais o almoxarife conferiu as quantidades.",
+          "D": "Ao receber os materiais o almoxarife conferiu, as quantidades."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas.",
+        "options": {
+          "A": "saída, histórico, armazém.",
+          "B": "saìda, historico, armazem.",
+          "C": "saída, histórico, armazem.",
+          "D": "saida, historico, armazém."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “Cada entrada é conferida, registrada e encaminhada ao endereço correto”, a palavra “cada” é classificada como",
+        "options": {
+          "A": "pronome indefinido, empregado com valor distributivo.",
+          "B": "advérbio de intensidade.",
+          "C": "conjunção coordenativa.",
+          "D": "preposição essencial."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Em “Embora a entrega tenha sido conferida, o material foi devolvido por apresentar avaria”, a conjunção “embora” estabelece relação de",
+        "options": {
+          "A": "causa.",
+          "B": "condição.",
+          "C": "concessão.",
+          "D": "conclusão."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa com concordância verbal correta.",
+        "options": {
+          "A": "A conferência e o registro dos materiais foi concluído.",
+          "B": "A conferência e o registro dos materiais foram concluídos.",
+          "C": "A conferência e o registro dos materiais foram concluída.",
+          "D": "A conferência e o registro dos materiais foi concluídos."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa com concordância nominal correta.",
+        "options": {
+          "A": "As notas fiscais anexo foram encaminhadas.",
+          "B": "As notas fiscal anexas foram encaminhada.",
+          "C": "As notas fiscais anexas foram encaminhadas.",
+          "D": "As notas fiscais anexa foi encaminhada."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que atende à regência verbal da norma-padrão.",
+        "options": {
+          "A": "O servidor informou o diretor sobre o atraso do fornecedor.",
+          "B": "O servidor informou ao diretor o atraso do fornecedor.",
+          "C": "O servidor informou no diretor o atraso do fornecedor.",
+          "D": "O servidor informou para o diretor ao atraso do fornecedor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que completa corretamente a frase: “O responsável deve estar atento ___ condições de conservação e ___ validade dos produtos.”",
+        "options": {
+          "A": "as — a.",
+          "B": "às — à.",
+          "C": "às — a.",
+          "D": "as — à."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa de acordo com a colocação pronominal da norma-padrão.",
+        "options": {
+          "A": "Não devem-se misturar materiais incompatíveis.",
+          "B": "Não se devem misturar materiais incompatíveis.",
+          "C": "Não devem misturar-se materiais incompatíveis-se.",
+          "D": "Se não devem misturar materiais incompatíveis."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "O relatório foi encaminhado à autoridade competente.",
+          "B": "O relatório foi encaminhado à uma autoridade competente.",
+          "C": "O relatório foi encaminhado a à autoridade competente.",
+          "D": "O relatório foi encaminhado à autoridades competentes."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "A tabela registra a movimentação de dois itens em determinado período. | Item | Saldo inicial | Entradas | Saídas | |---|---:|---:|---:| | A | 320 | 180 | 210 | | B | 450 | 90 | 160 | Considerando que não houve outras movimentações, o saldo final conjunto dos dois itens é de",
+        "options": {
+          "A": "570 unidades.",
+          "B": "620 unidades.",
+          "C": "670 unidades.",
+          "D": "710 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Quatro servidores organizam 600 caixas em 5 horas, mantendo ritmo constante. Nessas mesmas condições, seis servidores organizarão, em 4 horas,",
+        "options": {
+          "A": "640 caixas.",
+          "B": "680 caixas.",
+          "C": "720 caixas.",
+          "D": "750 caixas."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Um valor de R$ 1.000,00 é aplicado a juros compostos de 10% ao mês, durante dois meses, sem novos aportes. O montante ao final do período será de",
+        "options": {
+          "A": "R$ 1.100,00.",
+          "B": "R$ 1.200,00.",
+          "C": "R$ 1.210,00.",
+          "D": "R$ 1.220,00."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Um setor toma R$ 5.000,00 pelo regime de juros simples, à taxa de 2% ao mês, por quatro meses. O total de juros e o montante, respectivamente, são",
+        "options": {
+          "A": "R$ 200,00 e R$ 5.200,00.",
+          "B": "R$ 400,00 e R$ 5.400,00.",
+          "C": "R$ 500,00 e R$ 5.500,00.",
+          "D": "R$ 600,00 e R$ 5.600,00."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Um depósito retangular mede 12 m de comprimento por 8 m de largura. Se 25% da área deve permanecer livre para circulação e segurança, a área disponível para armazenagem será de",
+        "options": {
+          "A": "24 m².",
+          "B": "48 m².",
+          "C": "72 m².",
+          "D": "96 m²."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na classificação e na codificação de materiais, uma prática adequada é",
+        "options": {
+          "A": "atribuir códigos diferentes ao mesmo material sempre que mudar o fornecedor.",
+          "B": "adotar código único e descrição padronizada, com características suficientes para identificar o item sem ambiguidade.",
+          "C": "registrar apenas a cor do material, deixando quantidade e unidade para conferência posterior.",
+          "D": "utilizar exclusivamente o nome comercial informado pelo fornecedor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante o recebimento, a nota fiscal indica 100 unidades, mas a contagem física revela 96, e quatro unidades apresentam avarias. A conduta mais adequada é",
+        "options": {
+          "A": "lançar 100 unidades no estoque e corrigir a diferença apenas no inventário anual.",
+          "B": "aceitar integralmente a carga, pois a nota fiscal prevalece sobre a conferência física.",
+          "C": "registrar a divergência, separar ou recusar os itens avariados conforme o procedimento e comunicar o responsável pelo recebimento e o fornecedor.",
+          "D": "substituir as quatro unidades por materiais de outro item para completar a quantidade."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para materiais com prazo de validade, o método de separação que prioriza a saída daqueles cuja validade termina primeiro é o",
+        "options": {
+          "A": "LIFO (último que entra, primeiro que sai).",
+          "B": "FEFO (primeiro que vence, primeiro que sai).",
+          "C": "método aleatório.",
+          "D": "método de maior volume primeiro."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo médio de determinado insumo é de 20 unidades por dia, o prazo de reposição é de 5 dias e o estoque de segurança é de 30 unidades. Desconsiderando variações no consumo, o ponto de reposição é de",
+        "options": {
+          "A": "70 unidades.",
+          "B": "100 unidades.",
+          "C": "130 unidades.",
+          "D": "150 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Em um mês de 30 dias, o consumo de um item foi de 800 unidades e o estoque médio calculado para o período foi de 400 unidades. Considerando cobertura média = (estoque médio ÷ consumo do período) × número de dias, a rotatividade mensal e a cobertura média são, respectivamente,",
+        "options": {
+          "A": "0,5 vez e 15 dias.",
+          "B": "1 vez e 30 dias.",
+          "C": "2 vezes e 15 dias.",
+          "D": "2 vezes e 30 dias."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na análise pela curva ABC, os itens da classe A são, em regra,",
+        "options": {
+          "A": "numerosos e de baixo valor de consumo, exigindo controle mínimo.",
+          "B": "poucos itens que concentram elevada parcela do valor de consumo, demandando controle mais rigoroso.",
+          "C": "materiais sem movimentação e necessariamente obsoletos.",
+          "D": "itens que não precisam de inventário por possuírem alto giro."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para realizar um inventário físico confiável e conciliá-lo com os registros, é adequado",
+        "options": {
+          "A": "contar apenas os itens de maior valor e estimar os demais.",
+          "B": "manter entradas e saídas sem controle durante a contagem.",
+          "C": "planejar a contagem, identificar e contar os itens, comparar os resultados com o sistema, investigar divergências e efetuar ajustes autorizados.",
+          "D": "ajustar o sistema antes da contagem para que os saldos coincidam."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um sistema de registro de estoque é do tipo permanente (ou perpétuo) quando",
+        "options": {
+          "A": "registra as movimentações somente ao final do exercício.",
+          "B": "atualiza os saldos a cada entrada e saída, permitindo acompanhar o estoque disponível.",
+          "C": "substitui a necessidade de inventário físico.",
+          "D": "controla apenas os materiais entregues a fornecedores."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Constitui medida preventiva de perdas, danos, deterioração e obsolescência",
+        "options": {
+          "A": "manter caixas diretamente sobre o piso, para facilitar o acesso.",
+          "B": "misturar produtos incompatíveis para aproveitar espaços vazios.",
+          "C": "controlar validade e condições ambientais, proteger as embalagens e realizar inspeções periódicas.",
+          "D": "retirar etiquetas para evitar poluição visual nas prateleiras."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na gestão e conservação de bens móveis de uso duradouro, é procedimento adequado",
+        "options": {
+          "A": "entregar o bem sem registro, pois a unidade usuária já conhece sua origem.",
+          "B": "registrar a localização e o responsável pela guarda, além de adotar medidas de conservação e uso adequado.",
+          "C": "tratar todo bem móvel como material de consumo, sem controle patrimonial.",
+          "D": "descartar o bem quando apresentar qualquer desgaste, sem avaliação."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O tombamento de um bem público consiste, principalmente, em",
+        "options": {
+          "A": "vender o bem pelo maior preço disponível.",
+          "B": "identificar e registrar o bem no controle patrimonial, vinculando-o a informações como valor, localização e responsável.",
+          "C": "transferir automaticamente o bem para o fornecedor.",
+          "D": "retirar o bem do patrimônio após sua entrega."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um computador tombado será deslocado de uma secretaria para outra. Para assegurar a regularidade patrimonial, deve-se",
+        "options": {
+          "A": "realizar a transferência mediante registro e documento próprio, atualizando a localização e a responsabilidade pela guarda.",
+          "B": "apenas transportar o equipamento, pois o número patrimonial permanece o mesmo.",
+          "C": "dar baixa no bem e cadastrar outro na unidade de destino.",
+          "D": "retirar a etiqueta patrimonial durante o transporte."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na preparação de uma solicitação de compra para abastecer os órgãos municipais, cabe ao almoxarife",
+        "options": {
+          "A": "escolher informalmente o fornecedor de sua preferência e autorizar a despesa.",
+          "B": "levantar a necessidade, especificar o material, indicar quantidades e justificativa e encaminhar o expediente para o procedimento competente.",
+          "C": "dispensar a pesquisa de preços quando o item for de uso frequente.",
+          "D": "receber a mercadoria antes da autorização e depois regularizar o pedido."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na conferência de documentos fiscais e pedidos de fornecimento, deve-se verificar, entre outros aspectos,",
+        "options": {
+          "A": "somente o valor total da nota fiscal.",
+          "B": "a correspondência entre pedido, nota fiscal e material entregue, incluindo descrição, unidade, quantidade e condições aparentes.",
+          "C": "apenas a marca do produto, ainda que não conste do pedido.",
+          "D": "a assinatura do motorista como prova suficiente de conformidade."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao constatar atraso recorrente de um fornecedor em pedido autorizado, a providência administrativa adequada é",
+        "options": {
+          "A": "ignorar o atraso para preservar a relação comercial.",
+          "B": "alterar a data do pedido no sistema sem justificativa.",
+          "C": "acompanhar formalmente o pedido, registrar a ocorrência, solicitar atualização ao fornecedor e informar a autoridade responsável para as providências cabíveis.",
+          "D": "receber materiais diferentes dos solicitados sem registrar a substituição."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A gestão da cadeia de suprimentos busca integrar, de forma coordenada,",
+        "options": {
+          "A": "somente a armazenagem, sem considerar demanda ou distribuição.",
+          "B": "fornecedores, compras, recebimento, estoque, movimentação e atendimento às unidades, com fluxo de materiais e informações.",
+          "C": "apenas o transporte externo, excluindo os registros administrativos.",
+          "D": "a aquisição de materiais sem planejamento de consumo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um relatório administrativo de estoque é mais útil para a tomada de decisão quando apresenta dados",
+        "options": {
+          "A": "estimados, sem indicação do período ou da fonte.",
+          "B": "atualizados e rastreáveis, como saldos, entradas, saídas, pedidos pendentes e divergências identificadas.",
+          "C": "restritos ao nome dos servidores que trabalham no setor.",
+          "D": "exclusivamente narrativos, sem quantidades ou datas."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao coletar preços para instruir uma aquisição pública, o servidor recebe proposta de empresa de pessoa próxima e pretende escolhê-la sem comparar outras opções. Essa conduta contraria especialmente o princípio da",
+        "options": {
+          "A": "impessoalidade.",
+          "B": "continuidade.",
+          "C": "autotutela privada.",
+          "D": "especialidade técnica."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para movimentar manualmente uma caixa pesada com segurança e ergonomia, é recomendado",
+        "options": {
+          "A": "curvar a coluna e manter a carga afastada do corpo.",
+          "B": "girar o tronco durante a elevação para ganhar velocidade.",
+          "C": "avaliar o peso, manter a carga próxima ao corpo, flexionar os joelhos, solicitar auxílio quando necessário e utilizar o EPI indicado.",
+          "D": "transportar a caixa acima da linha dos ombros para melhorar a visão."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "06-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Considerando as atribuições do Almoxarife, após receber um pedido interno devidamente autorizado, a sequência mais adequada é",
+        "options": {
+          "A": "separar o material sem registro, entregar ao solicitante e somente depois verificar a autorização.",
+          "B": "encaminhar o pedido autorizado, acompanhar a entrega, conferir mercadorias e documentos, registrar a entrada, armazenar ou distribuir e manter os controles atualizados.",
+          "C": "encaminhar o pedido diretamente a qualquer fornecedor, sem pesquisa ou expediente de aquisição.",
+          "D": "tombar todos os materiais de consumo antes de recebê-los e dispensar a conferência física."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
     "id": "06-almoxarife",
     "title": "Simulado Autoral — Concurso Público de São Joaquim da Barra/SP",
     "cargo": "Auxiliar de Almoxarife",
@@ -3295,6 +7686,739 @@ export const simulados: Simulado[] = [
           "B": "aprovar sozinho a contratação de fornecedores e a autorização de despesas.",
           "C": "modificar registros contábeis sem comunicação ao responsável pelo setor.",
           "D": "retirar bens públicos do patrimônio sem autorização e sem documento."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "07-almoxarife-superior",
+    "title": "Simulado autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "07-almoxarife-superior-1",
+        "number": 1,
+        "section": "Instruções",
+        "passage": "Em um almoxarifado público, a pressa raramente é sinônimo de agilidade. Quando uma entrega chega, a equipe confere a nota fiscal, compara o pedido e inspeciona o material antes de registrá-lo. Esse cuidado pode parecer demorado, mas evita que faltas, excessos ou avarias sejam descobertos apenas no momento do uso. A organização também deixa um rastro útil: cada item tem código, endereço e histórico de movimentação. Assim, quem precisa de uma caixa de luvas não depende da memória de um servidor; consulta o registro e localiza o material. Por isso, um almoxarifado eficiente não é apenas um espaço cheio de produtos. É um sistema que combina informação confiável, conservação e atendimento no tempo certo.",
+        "statement": "A ideia central do texto é que",
+        "options": {
+          "A": "a rapidez no recebimento é mais importante que a conferência dos materiais.",
+          "B": "a eficiência do almoxarifado depende da integração entre registros confiáveis, conservação e atendimento adequado.",
+          "C": "a memória dos servidores é suficiente para localizar os materiais armazenados.",
+          "D": "a existência de grande quantidade de produtos caracteriza, por si só, um almoxarifado eficiente."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-2",
+        "number": 2,
+        "section": "Instruções",
+        "passage": "Em um almoxarifado público, a pressa raramente é sinônimo de agilidade. Quando uma entrega chega, a equipe confere a nota fiscal, compara o pedido e inspeciona o material antes de registrá-lo. Esse cuidado pode parecer demorado, mas evita que faltas, excessos ou avarias sejam descobertos apenas no momento do uso. A organização também deixa um rastro útil: cada item tem código, endereço e histórico de movimentação. Assim, quem precisa de uma caixa de luvas não depende da memória de um servidor; consulta o registro e localiza o material. Por isso, um almoxarifado eficiente não é apenas um espaço cheio de produtos. É um sistema que combina informação confiável, conservação e atendimento no tempo certo.",
+        "statement": "No trecho “A organização também deixa um *rastro* útil”, a palavra destacada foi empregada em sentido",
+        "options": {
+          "A": "literal, pois descreve uma marca deixada no chão.",
+          "B": "figurado, indicando os registros que permitem acompanhar o item.",
+          "C": "técnico, como sinônimo de nota fiscal.",
+          "D": "pejorativo, indicando falha na organização."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-3",
+        "number": 3,
+        "section": "Instruções",
+        "passage": "Em um almoxarifado público, a pressa raramente é sinônimo de agilidade. Quando uma entrega chega, a equipe confere a nota fiscal, compara o pedido e inspeciona o material antes de registrá-lo. Esse cuidado pode parecer demorado, mas evita que faltas, excessos ou avarias sejam descobertos apenas no momento do uso. A organização também deixa um rastro útil: cada item tem código, endereço e histórico de movimentação. Assim, quem precisa de uma caixa de luvas não depende da memória de um servidor; consulta o registro e localiza o material. Por isso, um almoxarifado eficiente não é apenas um espaço cheio de produtos. É um sistema que combina informação confiável, conservação e atendimento no tempo certo.",
+        "statement": "De acordo com o texto, é possível inferir que a conferência antes do registro",
+        "options": {
+          "A": "elimina a necessidade de armazenar os materiais em endereços definidos.",
+          "B": "serve apenas para verificar se a entrega chegou no horário previsto.",
+          "C": "reduz o risco de que divergências sejam percebidas somente quando o material for solicitado.",
+          "D": "deve ser dispensada quando o fornecedor é conhecido pelo órgão público."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-4",
+        "number": 4,
+        "section": "Instruções",
+        "passage": "Em um almoxarifado público, a pressa raramente é sinônimo de agilidade. Quando uma entrega chega, a equipe confere a nota fiscal, compara o pedido e inspeciona o material antes de registrá-lo. Esse cuidado pode parecer demorado, mas evita que faltas, excessos ou avarias sejam descobertos apenas no momento do uso. A organização também deixa um rastro útil: cada item tem código, endereço e histórico de movimentação. Assim, quem precisa de uma caixa de luvas não depende da memória de um servidor; consulta o registro e localiza o material. Por isso, um almoxarifado eficiente não é apenas um espaço cheio de produtos. É um sistema que combina informação confiável, conservação e atendimento no tempo certo.",
+        "statement": "No período “Quando uma entrega chega, a equipe confere a nota fiscal”, a vírgula foi empregada para",
+        "options": {
+          "A": "separar o sujeito do predicado.",
+          "B": "isolar um vocativo.",
+          "C": "separar uma oração subordinada adverbial anteposta à oração principal.",
+          "D": "indicar a omissão do verbo na segunda oração."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-5",
+        "number": 5,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a ortografia oficial.",
+        "options": {
+          "A": "A conferência verificou a existência de itens e a ausência de avarias.",
+          "B": "A requisição foi deferida após a análize dos documentos.",
+          "C": "O material estava acondicionado em local insalubre e inadeguado.",
+          "D": "O relatório registrou a excessão apresentada pelo fornecedor."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-6",
+        "number": 6,
+        "section": "Instruções",
+        "statement": "Sobre a acentuação gráfica, assinale a alternativa correta.",
+        "options": {
+          "A": "“Saída” recebe acento para marcar o hiato entre as vogais, com o “i” tônico.",
+          "B": "“Histórico” é oxítona terminada em “o” e, por isso, recebe acento.",
+          "C": "“Público” é uma palavra oxítona acentuada por terminar em vogal.",
+          "D": "“Eficiente” é proparoxítona e deve ser obrigatoriamente acentuada."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-7",
+        "number": 7,
+        "section": "Instruções",
+        "statement": "Na expressão “um sistema que combina informação confiável”, as palavras “um”, “sistema” e “confiável” são, respectivamente,",
+        "options": {
+          "A": "pronome pessoal, verbo e advérbio.",
+          "B": "artigo indefinido, substantivo e adjetivo.",
+          "C": "numeral, adjetivo e substantivo.",
+          "D": "preposição, substantivo e verbo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-8",
+        "number": 8,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa em que a concordância verbal está correta.",
+        "options": {
+          "A": "Faltam registros confiáveis no sistema de estoque.",
+          "B": "Falta registros confiáveis no sistema de estoque.",
+          "C": "Houveram divergências durante a conferência.",
+          "D": "Fazem dois meses que o inventário foi realizado."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-9",
+        "number": 9,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa em que a concordância nominal está correta.",
+        "options": {
+          "A": "As caixas e os paletes novo foram identificados.",
+          "B": "As caixas e os paletes novos foram identificados.",
+          "C": "As caixas e os paletes novas foram identificados.",
+          "D": "As caixas e os paletes novo foram identificadas."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-10",
+        "number": 10,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa que apresenta regência verbal de acordo com a norma-padrão.",
+        "options": {
+          "A": "A equipe obedeceu às normas de armazenagem.",
+          "B": "A equipe obedeceu as normas de armazenagem.",
+          "C": "A equipe obedeceu com as normas de armazenagem.",
+          "D": "A equipe obedeceu de as normas de armazenagem."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-11",
+        "number": 11,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa que apresenta regência nominal correta.",
+        "options": {
+          "A": "A equipe está apta de realizar a inspeção.",
+          "B": "A equipe está apta em realizar a inspeção.",
+          "C": "A equipe está apta a realizar a inspeção.",
+          "D": "A equipe está apta com realizar a inspeção."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-12",
+        "number": 12,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "A nota foi encaminhada à unidade solicitante.",
+          "B": "A equipe começou à conferir os volumes.",
+          "C": "O servidor entregou o documento à ele.",
+          "D": "O relatório fez referência à materiais vencidos."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-13",
+        "number": 13,
+        "section": "Instruções",
+        "statement": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão.",
+        "options": {
+          "A": "Não devem-se ignorar as divergências.",
+          "B": "Não se devem ignorar as divergências.",
+          "C": "Se devem não ignorar as divergências.",
+          "D": "Devem não-se ignorar as divergências."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-14",
+        "number": 14,
+        "section": "Instruções",
+        "statement": "No contexto administrativo, dizer que uma inspeção foi “minuciosa” significa que ela foi",
+        "options": {
+          "A": "superficial e rápida.",
+          "B": "detalhada e cuidadosa.",
+          "C": "realizada sem qualquer registro.",
+          "D": "feita exclusivamente por amostragem."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-15",
+        "number": 15,
+        "section": "Instruções",
+        "statement": "No período “Embora a entrega fosse urgente, a equipe realizou a conferência”, a conjunção “embora” estabelece relação de",
+        "options": {
+          "A": "causa.",
+          "B": "conclusão.",
+          "C": "concessão.",
+          "D": "finalidade. ### Matemática"
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-16",
+        "number": 16,
+        "section": "Instruções",
+        "statement": "O valor de (3)/(4)+(5)/(8)-(1)/(2) é",
+        "options": {
+          "A": "(1)/(8).",
+          "B": "(3)/(8).",
+          "C": "(7)/(8).",
+          "D": "(9)/(8)."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-17",
+        "number": 17,
+        "section": "Instruções",
+        "statement": "Cinco caixas de determinado material pesam, juntas, 75 kg. Mantida a proporcionalidade, qual será o peso de nove caixas iguais?",
+        "options": {
+          "A": "105 kg.",
+          "B": "120 kg.",
+          "C": "125 kg.",
+          "D": "135 kg."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-18",
+        "number": 18,
+        "section": "Instruções",
+        "statement": "Um recurso de R$ 2.000,00 é aplicado à taxa de 2% ao mês, durante três meses. Desconsiderando taxas e arredondando os centavos ao final, os montantes obtidos nos regimes de juros simples e de juros compostos são, respectivamente,",
+        "options": {
+          "A": "R$ 2.060,00 e R$ 2.061,20.",
+          "B": "R$ 2.120,00 e R$ 2.122,42.",
+          "C": "R$ 2.120,00 e R$ 2.124,00.",
+          "D": "R$ 2.122,42 e R$ 2.120,00."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-19",
+        "number": 19,
+        "section": "Instruções",
+        "statement": "Uma caixa tem base retangular de 0,40 m por 0,30 m e volume interno de 0,036 m³. Considerando a relação volume = área da base × altura, a área da base e a altura interna da caixa são, respectivamente,",
+        "options": {
+          "A": "0,12 m² e 0,30 m.",
+          "B": "0,12 m² e 0,90 m.",
+          "C": "0,70 m² e 0,036 m.",
+          "D": "1,20 m² e 0,03 m."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-20",
+        "number": 20,
+        "section": "Instruções",
+        "statement": "Um almoxarifado adota a regra de solicitar reposição quando o consumo mensal de um setor for superior a 30 unidades. Observe a tabela: | Setor | Janeiro | Fevereiro | Março | |---|---:|---:|---:| | A | 24 | 30 | 36 | | B | 20 | 25 | 30 | Com base na tabela e na regra, é correto afirmar que",
+        "options": {
+          "A": "o setor B deve solicitar reposição em fevereiro, pois consumiu 25 unidades.",
+          "B": "o setor A deve solicitar reposição em março, e sua média de consumo no trimestre foi de 30 unidades.",
+          "C": "os dois setores devem solicitar reposição em março, pois 30 unidades é superior a 30.",
+          "D": "a média trimestral do setor A foi de 36 unidades. ### Conhecimentos Específicos de Almoxarife"
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-21",
+        "number": 21,
+        "section": "Instruções",
+        "statement": "Em administração de materiais, a finalidade principal do almoxarifado é",
+        "options": {
+          "A": "manter o maior volume possível de itens, ainda que sem previsão de uso.",
+          "B": "assegurar materiais adequados, na quantidade e no momento necessários, com controle de custos e conservação.",
+          "C": "substituir o setor requisitante na definição de qualquer especificação técnica.",
+          "D": "distribuir materiais sem exigir registro, para acelerar o atendimento."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-22",
+        "number": 22,
+        "section": "Instruções",
+        "statement": "Sobre classificação, codificação, especificação e padronização de materiais, assinale a alternativa correta.",
+        "options": {
+          "A": "A codificação torna desnecessária a descrição das características do item.",
+          "B": "A classificação agrupa itens semelhantes; o código identifica o item; a especificação detalha suas características; e a padronização reduz variedades desnecessárias.",
+          "C": "A padronização exige que todos os materiais tenham o mesmo fabricante.",
+          "D": "A especificação deve ser genérica para permitir que qualquer item seja recebido no lugar do solicitado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-23",
+        "number": 23,
+        "section": "Instruções",
+        "statement": "Um pedido autorizado solicita 100 unidades de determinado item. A nota fiscal indica 120 unidades, mas a conferência física encontra 118. Nesse caso, a conduta mais adequada é",
+        "options": {
+          "A": "registrar 100 unidades e guardar as 18 excedentes sem qualquer anotação.",
+          "B": "aceitar a nota fiscal integralmente, pois o documento do fornecedor prevalece sobre a contagem.",
+          "C": "registrar a divergência, separar ou identificar o material pendente de regularização e comunicar o responsável antes do aceite definitivo.",
+          "D": "devolver toda a carga automaticamente, mesmo que o fornecedor possa corrigir a documentação."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-24",
+        "number": 24,
+        "section": "Instruções",
+        "statement": "Quando há vários lotes de um material com datas de validade diferentes, o método mais apropriado para definir a ordem de saída é o",
+        "options": {
+          "A": "LIFO, sempre retirando primeiro o lote mais novo.",
+          "B": "FEFO, priorizando o lote cuja validade vencerá primeiro.",
+          "C": "aleatório, para distribuir igualmente os riscos.",
+          "D": "método que prioriza o lote de maior valor unitário."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-25",
+        "number": 25,
+        "section": "Instruções",
+        "statement": "O consumo médio de um item é de 20 unidades por dia, o prazo de reposição é de cinco dias e o estoque de segurança é de 30 unidades. Desconsiderando outras variáveis, o ponto de reposição é de",
+        "options": {
+          "A": "70 unidades.",
+          "B": "100 unidades.",
+          "C": "130 unidades.",
+          "D": "150 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-26",
+        "number": 26,
+        "section": "Instruções",
+        "statement": "Para determinado item, a política de estoque define 160 unidades como estoque mínimo e 240 como estoque máximo. Considerando a média simples entre esses limites como referência do estoque médio, esse estoque médio é de",
+        "options": {
+          "A": "80 unidades.",
+          "B": "160 unidades.",
+          "C": "200 unidades.",
+          "D": "400 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-27",
+        "number": 27,
+        "section": "Instruções",
+        "statement": "Na análise pela curva ABC, os itens da classe A são, em regra,",
+        "options": {
+          "A": "numerosos e de baixo valor de consumo anual, exigindo controle mínimo.",
+          "B": "poucos itens que concentram parcela relevante do valor de consumo anual, justificando controle mais rigoroso.",
+          "C": "itens sem movimentação, que devem ser automaticamente baixados.",
+          "D": "materiais de uso exclusivo em atividades administrativas, independentemente do valor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-28",
+        "number": 28,
+        "section": "Instruções",
+        "statement": "O consumo médio mensal de um item é de 150 unidades e seu estoque médio é de 600 unidades. A cobertura aproximada e a rotatividade mensal, nessa ordem, são",
+        "options": {
+          "A": "0,25 mês e 4 giros.",
+          "B": "4 meses e 0,25 giro.",
+          "C": "4 meses e 150 giros.",
+          "D": "750 meses e 450 giros."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-29",
+        "number": 29,
+        "section": "Instruções",
+        "statement": "Para realizar um inventário físico com qualidade, é adequado",
+        "options": {
+          "A": "alterar previamente os saldos do sistema para que coincidam com a estimativa da equipe.",
+          "B": "manter entradas e saídas sem qualquer controle durante a contagem.",
+          "C": "planejar a contagem, controlar ou suspender movimentações, registrar os resultados, comparar com o sistema e conciliar divergências com autorização.",
+          "D": "descartar os itens divergentes para eliminar a diferença entre o físico e o registrado."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-30",
+        "number": 30,
+        "section": "Instruções",
+        "statement": "O saldo inicial de um item é de 80 unidades. No período, entram 50 unidades e saem 35 unidades, além de uma saída adicional de 5 unidades. Sem ajustes, o saldo final registrado deve ser de",
+        "options": {
+          "A": "50 unidades.",
+          "B": "80 unidades.",
+          "C": "90 unidades.",
+          "D": "170 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-31",
+        "number": 31,
+        "section": "Instruções",
+        "statement": "Constitui prática adequada para prevenir perdas, danos, deterioração e obsolescência",
+        "options": {
+          "A": "manter caixas diretamente no piso, para facilitar a retirada.",
+          "B": "controlar validade e condições ambientais, manter itens protegidos e segregados quando danificados, aplicando a ordem de saída adequada.",
+          "C": "misturar lotes e retirar sempre o material mais novo.",
+          "D": "armazenar materiais incompatíveis juntos, desde que estejam identificados."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-32",
+        "number": 32,
+        "section": "Instruções",
+        "statement": "Na gestão e conservação de bens móveis públicos, é correto",
+        "options": {
+          "A": "permitir uso sem identificação ou responsável, pois o bem pertence ao Município.",
+          "B": "realizar conservação preventiva, uso adequado, registro da responsabilidade e comunicação de danos ou necessidade de manutenção.",
+          "C": "descartar o bem danificado sem avaliação ou autorização.",
+          "D": "considerar que a limpeza substitui todos os registros patrimoniais."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-33",
+        "number": 33,
+        "section": "Instruções",
+        "statement": "Sobre o patrimônio público, o procedimento adequado para um bem permanente recém-adquirido é",
+        "options": {
+          "A": "colocá-lo em uso sem registro e tombá-lo apenas se desaparecer.",
+          "B": "realizar o tombamento e o registro patrimonial, controlar sua localização e formalizar movimentações, transferências e eventual baixa.",
+          "C": "registrar o bem somente no estoque de materiais de consumo.",
+          "D": "transferi-lo verbalmente entre setores, sem atualização patrimonial."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-34",
+        "number": 34,
+        "section": "Instruções",
+        "statement": "Em uma aquisição pública, a atuação adequada do almoxarife ou da unidade requisitante é",
+        "options": {
+          "A": "escolher diretamente o fornecedor de preferência e dispensar a formalização.",
+          "B": "identificar a necessidade, elaborar especificação suficiente, obter as autorizações, realizar a pesquisa pertinente e encaminhar o processo conforme as regras aplicáveis.",
+          "C": "dividir a compra para evitar qualquer procedimento de contratação.",
+          "D": "empenhar ou contratar por iniciativa própria, sem competência para isso."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-35",
+        "number": 35,
+        "section": "Instruções",
+        "statement": "Ao realizar pesquisa ou coleta de preços, para que a comparação seja útil e confiável, deve-se",
+        "options": {
+          "A": "aceitar propostas de itens com especificações diferentes, desde que tenham o menor preço.",
+          "B": "comparar condições equivalentes, registrar fontes, datas, especificações, prazos e demais condições relevantes, conforme o procedimento adotado.",
+          "C": "considerar apenas o fornecedor que já vendeu ao Município.",
+          "D": "substituir a pesquisa documentada por uma estimativa verbal."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-36",
+        "number": 36,
+        "section": "Instruções",
+        "statement": "Um fornecedor informa que atrasará a entrega de um pedido já autorizado. A providência administrativa mais adequada é",
+        "options": {
+          "A": "alterar unilateralmente a especificação e aceitar qualquer substituto.",
+          "B": "ocultar o atraso para evitar retrabalho.",
+          "C": "registrar a ocorrência, comunicar os responsáveis, acompanhar o pedido e avaliar as medidas cabíveis ou alternativas autorizadas.",
+          "D": "cancelar todos os pedidos do fornecedor sem análise ou comunicação."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-37",
+        "number": 37,
+        "section": "Instruções",
+        "statement": "Ao recusar a indicação de um fornecedor feita por amizade pessoal e seguir critérios objetivos e previamente estabelecidos, o agente público observa especialmente os princípios da",
+        "options": {
+          "A": "impessoalidade e moralidade.",
+          "B": "informalidade e pessoalidade.",
+          "C": "exclusividade e preferência privada.",
+          "D": "publicidade comercial e liberalidade."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-38",
+        "number": 38,
+        "section": "Instruções",
+        "statement": "Um relatório de controle do almoxarifado deve, preferencialmente,",
+        "options": {
+          "A": "apresentar apenas o saldo final, sem período ou fonte dos dados.",
+          "B": "reunir período, entradas, saídas, saldos, divergências identificadas, providências e informações que permitam rastrear os registros.",
+          "C": "substituir todos os documentos fiscais e autorizações de saída.",
+          "D": "omitir perdas e avarias para não comprometer os indicadores."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-39",
+        "number": 39,
+        "section": "Instruções",
+        "statement": "Durante a movimentação manual de uma caixa pesada, a conduta mais segura e ergonômica é",
+        "options": {
+          "A": "levantar a carga com a coluna curvada e mantê-la distante do corpo.",
+          "B": "usar auxílio mecânico ou solicitar ajuda quando necessário, aproximar a carga do corpo, flexionar os joelhos e utilizar os EPIs indicados.",
+          "C": "empilhar a caixa acima da altura dos olhos para liberar o corredor.",
+          "D": "retirar o calçado de segurança para ter mais mobilidade."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "07-almoxarife-superior-40",
+        "number": 40,
+        "section": "Instruções",
+        "statement": "Após receber um pedido de material devidamente autorizado, representa uma sequência adequada de trabalho do almoxarife",
+        "options": {
+          "A": "encaminhar o pedido ao fornecedor, receber e inspecionar a entrega, conferir documentos e quantidades, registrar, armazenar ou separar para distribuição e elaborar os controles pertinentes.",
+          "B": "encaminhar o pedido sem autorização, armazenar sem conferência e atualizar o registro somente ao final do exercício.",
+          "C": "receber a mercadoria, distribuí-la imediatamente e conferir a nota fiscal apenas se houver reclamação.",
+          "D": "escolher outro material de menor custo, dispensar a inspeção e informar a ocorrência somente no relatório anual."
         },
         "correct": "A",
         "explanation": [
@@ -3856,6 +8980,738 @@ export const simulados: Simulado[] = [
     ]
   },
   {
+    "id": "08-almoxarife-superior",
+    "title": "Simulado Autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "08-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "Após reorganizar o almoxarifado, a equipe passou a registrar cada entrada no mesmo dia. O procedimento não aumentou a quantidade disponível, mas tornou visível o consumo real. Com essa informação, a administração deixou de comprar por mera impressão e passou a programar as reposições.",
+        "statement": "De acordo com o texto, o principal efeito do registro diário das entradas foi",
+        "options": {
+          "A": "aumentar imediatamente a quantidade de materiais disponíveis.",
+          "B": "permitir o conhecimento do consumo e o planejamento das reposições com base em dados.",
+          "C": "eliminar a necessidade de controlar as saídas do almoxarifado.",
+          "D": "substituir a conferência de mercadorias por uma estimativa de consumo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "Após reorganizar o almoxarifado, a equipe passou a registrar cada entrada no mesmo dia. O procedimento não aumentou a quantidade disponível, mas tornou visível o consumo real. Com essa informação, a administração deixou de comprar por mera impressão e passou a programar as reposições.",
+        "statement": "No contexto, a expressão “por mera impressão” significa comprar",
+        "options": {
+          "A": "em cumprimento a uma obrigação legal específica.",
+          "B": "somente depois de realizar um inventário anual.",
+          "C": "com base em percepção subjetiva, sem dados suficientes.",
+          "D": "exclusivamente após a coleta formal de preços."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "passage": "Após reorganizar o almoxarifado, a equipe passou a registrar cada entrada no mesmo dia. O procedimento não aumentou a quantidade disponível, mas tornou visível o consumo real. Com essa informação, a administração deixou de comprar por mera impressão e passou a programar as reposições.",
+        "statement": "A conjunção “mas”, no segundo período do texto, estabelece relação de",
+        "options": {
+          "A": "oposição ou contraste.",
+          "B": "causa.",
+          "C": "conclusão.",
+          "D": "explicação."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a ortografia oficial.",
+        "options": {
+          "A": "exceção — privilégio — manutenção.",
+          "B": "excessão — privilégio — manutenção.",
+          "C": "exceção — previlégio — manuntenção.",
+          "D": "excessão — previlégio — manuntenção."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa com pontuação adequada.",
+        "options": {
+          "A": "Quando o caminhão chegou o almoxarife, conferiu a nota fiscal e registrou a entrega.",
+          "B": "Quando o caminhão chegou o almoxarife conferiu, a nota fiscal e registrou a entrega.",
+          "C": "Quando o caminhão chegou; o almoxarife conferiu a nota fiscal e registrou a entrega.",
+          "D": "Quando o caminhão chegou, o almoxarife conferiu a nota fiscal e registrou a entrega."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a acentuação gráfica está correta.",
+        "options": {
+          "A": "A saída do material ocorreu no nível previsto.",
+          "B": "A saída do material ocorreu no nivel previsto.",
+          "C": "A saìda do material ocorreu no nível previsto.",
+          "D": "A saída do material ocorreu no níviel previsto."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “Os materiais frágeis foram identificados antes da expedição”, a palavra “frágeis” é classificada como",
+        "options": {
+          "A": "numeral.",
+          "B": "adjetivo.",
+          "C": "advérbio.",
+          "D": "preposição."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à concordância verbal.",
+        "options": {
+          "A": "Faz dois meses que o inventário foi concluído.",
+          "B": "Fazem dois meses que o inventário foi concluído.",
+          "C": "Houveram dois meses desde a conclusão do inventário.",
+          "D": "Existiu dois meses desde a conclusão do inventário."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à concordância nominal.",
+        "options": {
+          "A": "Segue anexo as notas fiscais.",
+          "B": "Seguem anexo as notas fiscais.",
+          "C": "Seguem anexas as notas fiscais.",
+          "D": "Segue anexas as notas fiscais."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que atende à regência verbal da norma-padrão.",
+        "options": {
+          "A": "O servidor obedeceu as normas de segurança.",
+          "B": "O servidor obedeceu às normas de segurança.",
+          "C": "O servidor obedeceu nas normas de segurança.",
+          "D": "O servidor obedeceu com as normas de segurança."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que atende à regência nominal da norma-padrão.",
+        "options": {
+          "A": "O almoxarife é responsável o registro das entradas.",
+          "B": "O almoxarife é responsável ao registro das entradas.",
+          "C": "O almoxarife é responsável pelo registro das entradas.",
+          "D": "O almoxarife é responsável no registro das entradas."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "O relatório foi encaminhado a chefia e a conferência ocorreu as oito horas.",
+          "B": "O relatório foi encaminhado à chefia e a conferência ocorreu às oito horas.",
+          "C": "O relatório foi encaminhado à chefia e a conferência ocorreu as oito horas.",
+          "D": "O relatório foi encaminhado a chefia e a conferência ocorreu às oito horas."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à colocação pronominal.",
+        "options": {
+          "A": "Não se devem misturar produtos incompatíveis.",
+          "B": "Não devem-se misturar produtos incompatíveis.",
+          "C": "Não se deve misturarem produtos incompatíveis.",
+          "D": "Não devem se misturar-se produtos incompatíveis."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “A implantação do novo sistema foi um divisor de águas na gestão do estoque”, a expressão destacada foi empregada em sentido",
+        "options": {
+          "A": "literal, indicando a separação física de dois cursos de água.",
+          "B": "figurado, indicando uma mudança decisiva.",
+          "C": "técnico, indicando a divisão de um depósito em dois setores.",
+          "D": "administrativo, indicando a emissão de uma nota fiscal."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "Na frase “O fornecedor atrasou, portanto a entrega foi reprogramada”, a palavra “portanto” é uma conjunção coordenativa",
+        "options": {
+          "A": "explicativa.",
+          "B": "adversativa.",
+          "C": "alternativa.",
+          "D": "conclusiva."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "Resolva a equação x/3 + 4 = 10. O valor de x é",
+        "options": {
+          "A": "12.",
+          "B": "14.",
+          "C": "18.",
+          "D": "21."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Se 6 caixas de determinado material atendem a 18 setores, mantendo-se a mesma proporção, quantas caixas serão necessárias para atender a 30 setores?",
+        "options": {
+          "A": "8.",
+          "B": "9.",
+          "C": "10.",
+          "D": "12."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Um capital de R$ 2.000,00 é aplicado a juros compostos de 5% ao mês, durante 2 meses. Desconsiderando taxas, o montante obtido será de",
+        "options": {
+          "A": "R$ 2.100,00.",
+          "B": "R$ 2.200,00.",
+          "C": "R$ 2.210,00.",
+          "D": "R$ 2.205,00."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Um depósito tem base retangular de 6 m por 4 m e altura de 2,5 m. O volume interno, em metros cúbicos, é",
+        "options": {
+          "A": "24 m³.",
+          "B": "60 m³.",
+          "C": "72 m³.",
+          "D": "120 m³."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Um almoxarifado iniciou janeiro com 200 unidades. Observe a tabela: | Mês | Entradas | Saídas | |---|---:|---:| | Janeiro | 120 | 80 | | Fevereiro | 150 | 110 | | Março | 100 | 130 | Considerando apenas essas movimentações e sem perdas, o estoque ao final de março será de",
+        "options": {
+          "A": "210 unidades.",
+          "B": "230 unidades.",
+          "C": "250 unidades.",
+          "D": "270 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na administração de materiais, a finalidade central do almoxarifado é",
+        "options": {
+          "A": "assegurar o material adequado, na quantidade e no momento necessários, com controle e conservação apropriados.",
+          "B": "manter o maior volume possível de itens, independentemente do consumo.",
+          "C": "substituir o setor de compras em todas as decisões de contratação.",
+          "D": "distribuir materiais sem necessidade de registro, para agilizar o atendimento."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre classificação, codificação, especificação e padronização de materiais, assinale a alternativa correta.",
+        "options": {
+          "A": "O código do item deve variar a cada compra, conforme o fornecedor utilizado.",
+          "B": "A especificação clara e a codificação padronizada reduzem duplicidades e facilitam o controle do estoque.",
+          "C": "A classificação somente pode ser realizada depois de o material ser consumido.",
+          "D": "A padronização exige a aquisição de uma única marca, ainda que outras atendam à especificação."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um pedido autorizou 100 caixas de determinado material. A nota fiscal também indica 100 caixas, mas a conferência física encontrou apenas 96. A conduta adequada é",
+        "options": {
+          "A": "lançar 100 caixas no sistema, pois essa é a quantidade da nota fiscal.",
+          "B": "alterar manualmente a nota fiscal para que coincida com a contagem.",
+          "C": "registrar a divergência, segregar ou reter o recebimento conforme o procedimento e comunicar o responsável e o fornecedor.",
+          "D": "descartar imediatamente todas as caixas recebidas, sem registro do fato."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Durante a inspeção, a quantidade recebida está correta, porém parte das embalagens apresenta avarias visíveis. Nesse caso, o almoxarife deve",
+        "options": {
+          "A": "misturar as unidades avariadas às demais para evitar retrabalho.",
+          "B": "aceitar tudo sem observação, pois a quantidade é o único dado relevante.",
+          "C": "separar as unidades atingidas, registrar a ocorrência e encaminhar a decisão de aceite, devolução ou substituição conforme o procedimento.",
+          "D": "distribuir primeiro as unidades danificadas, independentemente de sua condição de uso."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para materiais que possuem prazo de validade, o método de saída que prioriza o lote com vencimento mais próximo é conhecido como",
+        "options": {
+          "A": "LIFO.",
+          "B": "FEFO.",
+          "C": "armazenagem aleatória.",
+          "D": "cross-docking obrigatório."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo diário de um item é de 20 unidades, o prazo de reposição é de 5 dias e o estoque de segurança é de 30 unidades. Considerando a fórmula ponto de reposição = consumo durante o prazo + estoque de segurança, o ponto de reposição é de",
+        "options": {
+          "A": "50 unidades.",
+          "B": "100 unidades.",
+          "C": "130 unidades.",
+          "D": "150 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um item possui estoque mínimo de 100 unidades e estoque máximo de 500 unidades. Considerando, para este cálculo, a média aritmética entre os dois níveis, seu estoque médio é de",
+        "options": {
+          "A": "200 unidades.",
+          "B": "300 unidades.",
+          "C": "400 unidades.",
+          "D": "600 unidades."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na curva ABC, os itens classificados como “A” são, em regra,",
+        "options": {
+          "A": "poucos em quantidade, mas de elevada importância ou valor de consumo, exigindo controle mais rigoroso.",
+          "B": "todos os itens sem movimentação e já destinados à baixa patrimonial.",
+          "C": "numerosos itens de baixo valor, que dispensam qualquer acompanhamento.",
+          "D": "materiais cujo prazo de validade é necessariamente o mais curto."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um item apresenta consumo médio de 100 unidades por mês e estoque médio de 200 unidades. Considerando rotatividade mensal = consumo médio mensal ÷ estoque médio, a rotatividade e a cobertura aproximada são, respectivamente,",
+        "options": {
+          "A": "2 rotações por mês e 0,5 mês.",
+          "B": "1 rotação por mês e 1 mês.",
+          "C": "0,5 rotação por mês e 1 mês.",
+          "D": "0,5 rotação por mês e 2 meses."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para realizar um inventário físico com confiabilidade, é adequado",
+        "options": {
+          "A": "planejar a contagem, definir responsáveis, controlar ou suspender movimentações durante a execução e conciliar os resultados com os registros.",
+          "B": "contar somente os itens de maior valor e presumir que os demais estejam corretos.",
+          "C": "alterar os registros antes da contagem para eliminar possíveis diferenças.",
+          "D": "dispensar a documentação das divergências quando a diferença for pequena."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O controle de entradas e saídas de materiais deve, preferencialmente,",
+        "options": {
+          "A": "registrar apenas as entradas, pois as saídas são responsabilidade exclusiva do setor requisitante.",
+          "B": "permitir lançamentos sem data, quantidade ou identificação do destino, desde que haja autorização verbal.",
+          "C": "vincular a saída a requisição autorizada, registrar data, quantidade e destino e atualizar o sistema ou ficha de estoque.",
+          "D": "registrar a movimentação somente no encerramento do exercício financeiro."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao identificar um recipiente com vazamento no estoque, a medida mais adequada é",
+        "options": {
+          "A": "recolocá-lo na prateleira depois de limpar apenas a área externa.",
+          "B": "isolar o material, sinalizar o risco, registrar a perda ou avaria e encaminhar a destinação segura conforme os procedimentos aplicáveis.",
+          "C": "transferir o conteúdo para qualquer embalagem disponível, sem identificação.",
+          "D": "distribuí-lo imediatamente para evitar que o vazamento seja percebido no inventário."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A gestão e conservação de bens móveis públicos compreende, entre outras medidas,",
+        "options": {
+          "A": "manter condições adequadas de uso, realizar conservação e manutenção quando cabível e identificar a responsabilidade pela guarda.",
+          "B": "permitir a retirada de bens sem registro, desde que o uso seja temporário.",
+          "C": "considerar desnecessário o controle de localização de móveis após a entrega ao setor.",
+          "D": "substituir a manutenção preventiva por inventários realizados apenas quando houver dano."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre tombamento, movimentação, transferência e baixa patrimonial, assinale a alternativa correta.",
+        "options": {
+          "A": "Tombamento é o registro de consumo de material de uso corrente.",
+          "B": "A transferência de um bem pode ocorrer sem atualização de sua localização ou responsável.",
+          "C": "A baixa patrimonial pode ser efetivada apenas por comunicação verbal do usuário.",
+          "D": "O tombamento identifica o bem permanente; a transferência atualiza sua responsabilidade ou localização; e a baixa depende de procedimento formal e autorização competente."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Em uma solicitação de compra pública, uma boa prática administrativa é",
+        "options": {
+          "A": "indicar o fornecedor preferido antes de definir a necessidade do órgão.",
+          "B": "formalizar a necessidade, especificar o objeto, realizar pesquisa ou coleta de preços idônea e encaminhar o processo à autoridade competente.",
+          "C": "escolher sempre o menor preço informado informalmente, sem verificar se o objeto atende à especificação.",
+          "D": "iniciar a aquisição sem pedido ou justificativa, para reduzir o tempo do processo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Depois de encaminhar ao fornecedor um pedido devidamente autorizado, cabe ao almoxarife, conforme suas atribuições,",
+        "options": {
+          "A": "alterar unilateralmente quantidades e especificações para facilitar a entrega.",
+          "B": "considerar o pedido encerrado, ainda que não tenha ocorrido a entrega.",
+          "C": "acompanhar prazo e condições, registrar as comunicações, conferir a entrega e informar atrasos ou divergências.",
+          "D": "efetuar o pagamento diretamente ao fornecedor, sem participação do setor competente."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A logística e a cadeia de suprimentos são melhor representadas pelo",
+        "options": {
+          "A": "gerenciamento integrado do fluxo de materiais e informações, desde o fornecedor até o usuário, incluindo recebimento, armazenagem, movimentação e distribuição.",
+          "B": "transporte isolado de mercadorias, sem relação com informações ou estoques.",
+          "C": "armazenamento indefinido de materiais para evitar qualquer risco de falta.",
+          "D": "processo limitado à emissão de notas fiscais após o consumo."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um relatório administrativo de almoxarifado é mais útil quando apresenta",
+        "options": {
+          "A": "opiniões pessoais, sem identificação do período ou da fonte dos dados.",
+          "B": "somente o valor total gasto, sem entradas, saídas ou saldos.",
+          "C": "informações aproximadas, para evitar o registro de divergências.",
+          "D": "período, entradas, saídas, saldos, níveis de estoque, ocorrências e divergências, com dados que permitam rastreabilidade e decisão."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao atender a um pedido, o servidor escolhe deliberadamente o fornecedor de um conhecido, embora exista procedimento objetivo e outras propostas válidas. Essa conduta contraria principalmente o princípio da",
+        "options": {
+          "A": "continuidade.",
+          "B": "impessoalidade.",
+          "C": "especialidade.",
+          "D": "autotutela."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "08-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No armazenamento e na movimentação de materiais, uma conduta compatível com segurança e ergonomia é",
+        "options": {
+          "A": "levantar cargas com a coluna curvada, desde que o deslocamento seja curto.",
+          "B": "bloquear corredores com caixas para diminuir o número de viagens.",
+          "C": "avaliar o peso, utilizar técnica adequada e equipamento de movimentação quando necessário, manter vias livres e usar os EPIs indicados.",
+          "D": "utilizar EPI somente depois que ocorrer o primeiro acidente no setor."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
     "id": "08-almoxarife",
     "title": "Simulado autoral — Município de São Joaquim da Barra/SP",
     "cargo": "Auxiliar de Almoxarife",
@@ -4395,6 +10251,738 @@ export const simulados: Simulado[] = [
           "B": "dispensar a conferência de notas fiscais quando o fornecedor for conhecido.",
           "C": "alterar, sem autorização, os níveis mínimo e máximo definidos para os materiais.",
           "D": "entregar materiais sem requisição ou qualquer registro, desde que o setor solicitante tenha urgência."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "09-almoxarife-superior",
+    "title": "Simulado Autoral — Almoxarife (Ensino Superior)",
+    "cargo": "Almoxarife (Ensino Superior)",
+    "banca": "INDEPAC",
+    "municipio": "São Joaquim da Barra/SP",
+    "questions": [
+      {
+        "id": "09-almoxarife-superior-1",
+        "number": 1,
+        "section": "Língua Portuguesa",
+        "passage": "> Em um almoxarifado público, a organização não se resume a empilhar caixas. Cada recebimento deve ser conferido, registrado e direcionado ao local adequado. Quando a equipe identifica, ainda na entrega, uma divergência entre o pedido e a nota fiscal, evita que o problema se espalhe pelo estoque. Esse cuidado, embora pareça simples, protege o patrimônio e fornece dados confiáveis para novas aquisições. Assim, o controle deixa de ser tarefa meramente burocrática e passa a apoiar a continuidade dos serviços públicos.",
+        "statement": "A ideia central do texto é que",
+        "options": {
+          "A": "a principal função do almoxarifado é empilhar caixas de forma rápida.",
+          "B": "a nota fiscal substitui o controle físico dos materiais recebidos.",
+          "C": "a conferência e o registro dos recebimentos contribuem para proteger o patrimônio e apoiar os serviços públicos.",
+          "D": "as aquisições devem ocorrer antes da conferência dos pedidos e das notas fiscais."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-2",
+        "number": 2,
+        "section": "Língua Portuguesa",
+        "passage": "> Em um almoxarifado público, a organização não se resume a empilhar caixas. Cada recebimento deve ser conferido, registrado e direcionado ao local adequado. Quando a equipe identifica, ainda na entrega, uma divergência entre o pedido e a nota fiscal, evita que o problema se espalhe pelo estoque. Esse cuidado, embora pareça simples, protege o patrimônio e fornece dados confiáveis para novas aquisições. Assim, o controle deixa de ser tarefa meramente burocrática e passa a apoiar a continuidade dos serviços públicos.",
+        "statement": "No texto, a expressão “Esse cuidado” retoma, principalmente,",
+        "options": {
+          "A": "o simples ato de empilhar caixas no almoxarifado.",
+          "B": "a identificação de divergências entre o pedido e a nota fiscal ainda no recebimento.",
+          "C": "a substituição dos registros por procedimentos exclusivamente burocráticos.",
+          "D": "a realização de novas aquisições sem consulta aos dados do estoque."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-3",
+        "number": 3,
+        "section": "Língua Portuguesa",
+        "passage": "> Em um almoxarifado público, a organização não se resume a empilhar caixas. Cada recebimento deve ser conferido, registrado e direcionado ao local adequado. Quando a equipe identifica, ainda na entrega, uma divergência entre o pedido e a nota fiscal, evita que o problema se espalhe pelo estoque. Esse cuidado, embora pareça simples, protege o patrimônio e fornece dados confiáveis para novas aquisições. Assim, o controle deixa de ser tarefa meramente burocrática e passa a apoiar a continuidade dos serviços públicos.",
+        "statement": "De acordo com o texto, pode-se inferir que",
+        "options": {
+          "A": "a conferência de materiais é desnecessária quando o fornecedor é conhecido.",
+          "B": "os registros de estoque servem apenas para arquivar documentos antigos.",
+          "C": "toda divergência deve ser corrigida no sistema sem comunicação ao setor responsável.",
+          "D": "dados confiáveis de recebimento podem orientar decisões de aquisição e favorecer a continuidade dos serviços."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-4",
+        "number": 4,
+        "section": "Língua Portuguesa",
+        "statement": "No trecho “evita que o problema se espalhe pelo estoque”, o verbo “espalhe” foi empregado no sentido de",
+        "options": {
+          "A": "propague-se ou alcance outras partes do estoque.",
+          "B": "seja eliminado imediatamente do estoque.",
+          "C": "seja embalado para transporte externo.",
+          "D": "seja convertido em material permanente."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-5",
+        "number": 5,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+        "options": {
+          "A": "A equipe analisou a requisição e encaminhou-a à autoridade responsável.",
+          "B": "A equipe analizará a requisição e enviou-a à autoridade responsável.",
+          "C": "A equipe analisou a requisição e encaminhou-a à altoridade responsável.",
+          "D": "A equipe analysou a requisição e encaminhou-a à autoridade responsável."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-6",
+        "number": 6,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa corretamente pontuada.",
+        "options": {
+          "A": "Depois da conferência, o almoxarife registrou a entrada no sistema.",
+          "B": "Depois da conferência o almoxarife, registrou a entrada no sistema.",
+          "C": "Depois, da conferência o almoxarife registrou a entrada no sistema.",
+          "D": "Depois da conferência o almoxarife registrou, a entrada no sistema."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-7",
+        "number": 7,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que a acentuação gráfica está correta.",
+        "options": {
+          "A": "A saída do material ocorreu após a conferência da requisição.",
+          "B": "A saìda do material ocorreu após a conferência da requisição.",
+          "C": "A saída do material ocorreu após a conferência da requisiçao.",
+          "D": "A saida do material ocorreu após a conferênçia da requisição."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-8",
+        "number": 8,
+        "section": "Língua Portuguesa",
+        "statement": "Na oração “Esse cuidado, embora pareça simples, protege o patrimônio”, a palavra “embora” é uma",
+        "options": {
+          "A": "conjunção subordinativa concessiva.",
+          "B": "preposição essencial.",
+          "C": "interjeição de dúvida.",
+          "D": "conjunção coordenativa conclusiva."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-9",
+        "number": 9,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à concordância verbal.",
+        "options": {
+          "A": "A conferência e o registro dos materiais é essencial.",
+          "B": "A conferência e os registros dos materiais é essencial.",
+          "C": "A conferência e o registro dos materiais são essenciais.",
+          "D": "A conferência e registro dos materiais são essencial."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-10",
+        "number": 10,
+        "section": "Língua Portuguesa",
+        "statement": "Complete corretamente a frase: “Seguem ______ as fichas de estoque solicitadas.”",
+        "options": {
+          "A": "anexo",
+          "B": "anexas",
+          "C": "anexa",
+          "D": "anexos"
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-11",
+        "number": 11,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa que está de acordo com a regência verbal da norma-padrão.",
+        "options": {
+          "A": "O responsável obedeceu às normas de segurança.",
+          "B": "O responsável obedeceu as normas de segurança.",
+          "C": "O servidor informou ao fornecedor de a divergência.",
+          "D": "O almoxarife preferiu registrar a ocorrência do que ocultá-la."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-12",
+        "number": 12,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à regência nominal.",
+        "options": {
+          "A": "O servidor estava atento às condições de armazenamento.",
+          "B": "O servidor estava favorável com a mudança do procedimento.",
+          "C": "O material é compatível de uso externo.",
+          "D": "O relatório é necessário com conferência complementar."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-13",
+        "number": 13,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+        "options": {
+          "A": "O material foi entregue a unidade requisitante.",
+          "B": "A equipe retornou à pé ao almoxarifado.",
+          "C": "O relatório foi encaminhado àquela diretoria.",
+          "D": "O almoxarife começou à conferir as quantidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-14",
+        "number": 14,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à colocação pronominal.",
+        "options": {
+          "A": "Não se devem misturar materiais incompatíveis.",
+          "B": "Não devem-se misturar materiais incompatíveis.",
+          "C": "Se deve não misturar materiais incompatíveis.",
+          "D": "Devem não-se misturar materiais incompatíveis."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-15",
+        "number": 15,
+        "section": "Língua Portuguesa",
+        "statement": "Assinale a alternativa correta quanto à concordância, à pontuação e ao emprego da crase.",
+        "options": {
+          "A": "Havia divergências no inventário; por isso, a equipe as registrou e comunicou o fato à chefia.",
+          "B": "Haviam divergências no inventário; por isso, a equipe as registrou e comunicou o fato à chefia.",
+          "C": "Havia divergências no inventário; por isso, a equipe registraram-nas e comunicou o fato à chefia.",
+          "D": "Havia divergências no inventário, por isso a equipe as registrou e comunicou o fato a chefia. ---"
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-16",
+        "number": 16,
+        "section": "Matemática",
+        "statement": "O valor de (-18+6)÷(-3)+(1)/(2) é igual a",
+        "options": {
+          "A": "(9)/(2).",
+          "B": "(7)/(2).",
+          "C": "-(9)/(2).",
+          "D": "-(7)/(2)."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-17",
+        "number": 17,
+        "section": "Matemática",
+        "statement": "Mantendo-se o mesmo ritmo de trabalho, uma equipe organiza 240 caixas em 6 horas. Quantas caixas ela organizará em 9 horas?",
+        "options": {
+          "A": "300.",
+          "B": "320.",
+          "C": "360.",
+          "D": "400."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-18",
+        "number": 18,
+        "section": "Matemática",
+        "statement": "Em determinado período, foram atendidas as seguintes requisições: | Setor | Requisições atendidas | |---|---:| | A | 240 | | B | 160 | | C | 100 | A quantidade de requisições do setor B corresponde, aproximadamente, a",
+        "options": {
+          "A": "16% do total.",
+          "B": "32% do total.",
+          "C": "40% do total.",
+          "D": "60% do total."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-19",
+        "number": 19,
+        "section": "Matemática",
+        "statement": "Um capital de R$ 1.000,00 é aplicado a juros compostos de 2% ao mês, durante 3 meses, sem depósitos ou retiradas. Considerando 1,02^3=1,061208, o montante aproximado será de",
+        "options": {
+          "A": "R$ 1.020,00.",
+          "B": "R$ 1.060,00.",
+          "C": "R$ 1.062,00.",
+          "D": "R$ 1.061,21."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-20",
+        "number": 20,
+        "section": "Matemática",
+        "statement": "Uma caixa retangular possui dimensões internas de 40 cm de comprimento, 30 cm de largura e 25 cm de altura. Sabendo que 1.000 cm³ correspondem a 1 litro, seu volume interno é de",
+        "options": {
+          "A": "30 litros.",
+          "B": "95 litros.",
+          "C": "300 litros.",
+          "D": "3.000 litros. ---"
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-21",
+        "number": 21,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um pedido de fornecimento prevê 100 caixas, a nota fiscal também indica 100 caixas, mas a conferência física identifica apenas 96. Nesse caso, a conduta mais adequada é",
+        "options": {
+          "A": "registrar a entrada de 100 caixas, pois a nota fiscal prevalece sobre a contagem física.",
+          "B": "registrar a quantidade efetivamente conferida, formalizar a divergência no recebimento e comunicar o fato para as providências cabíveis.",
+          "C": "alterar o pedido para 96 caixas sem comunicar o setor responsável pela aquisição.",
+          "D": "armazenar as 96 caixas e corrigir a diferença somente no inventário anual."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-22",
+        "number": 22,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Uma prática adequada de classificação, codificação, especificação e padronização de materiais consiste em",
+        "options": {
+          "A": "identificar os itens somente pela cor da embalagem, dispensando códigos.",
+          "B": "agrupar os materiais por características e finalidade, atribuir códigos únicos, descrever especificações verificáveis e reduzir variedades desnecessárias.",
+          "C": "adotar um código diferente para o mesmo item a cada fornecedor, para facilitar a compra.",
+          "D": "usar descrições genéricas, como “material diverso”, sempre que o item tiver baixo valor."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-23",
+        "number": 23,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "O consumo médio diário de determinado item é de 30 unidades. O prazo médio de reposição é de 5 dias e o estoque de segurança é de 40 unidades. Considerando o ponto de reposição como consumo durante o prazo de reposição mais o estoque de segurança, esse ponto será de",
+        "options": {
+          "A": "110 unidades.",
+          "B": "150 unidades.",
+          "C": "190 unidades.",
+          "D": "200 unidades."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-24",
+        "number": 24,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um item apresenta consumo médio diário de 20 unidades e estoque médio de 160 unidades. Considerando um mês de 30 dias, a cobertura aproximada e a rotatividade mensal desse estoque são, respectivamente,",
+        "options": {
+          "A": "6 dias e 3,00 vezes por mês.",
+          "B": "8 dias e 3,75 vezes por mês.",
+          "C": "8 dias e 8,00 vezes por mês.",
+          "D": "20 dias e 3,75 vezes por mês."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-25",
+        "number": 25,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre a classificação ABC, é correto afirmar que os itens da classe A, em regra,",
+        "options": {
+          "A": "representam parcela menor da quantidade de itens, mas concentram maior valor de consumo anual e exigem controle mais rigoroso.",
+          "B": "representam a maioria dos itens e possuem sempre o menor valor de consumo anual.",
+          "C": "dispensam inventários, por serem itens de baixo impacto financeiro.",
+          "D": "devem ser controlados apenas pela ordem alfabética de seus nomes."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-26",
+        "number": 26,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para realizar um inventário físico com qualidade, o procedimento mais adequado é",
+        "options": {
+          "A": "alterar os saldos do sistema antes da contagem para aproximá-los da realidade.",
+          "B": "manter todas as movimentações sem registro durante a contagem, para não atrasar o trabalho.",
+          "C": "planejar a atividade, controlar ou suspender as movimentações, contar os itens, comparar os resultados, investigar divergências e conciliar os saldos mediante autorização.",
+          "D": "descartar imediatamente os itens cuja contagem não coincidir com o sistema."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-27",
+        "number": 27,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "É uma boa prática de armazenagem e localização de materiais",
+        "options": {
+          "A": "colocar materiais pesados nas prateleiras mais altas, para liberar o piso.",
+          "B": "armazenar produtos incompatíveis juntos, desde que estejam dentro de caixas fechadas.",
+          "C": "utilizar endereçamento identificado, manter corredores livres e aplicar FIFO ou FEFO quando houver prazo de validade.",
+          "D": "colocar os itens recém-recebidos na frente dos mais antigos, independentemente da validade."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-28",
+        "number": 28,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um sistema adequado de registro de estoque deve",
+        "options": {
+          "A": "registrar entradas e saídas apenas ao final do mês, para reduzir lançamentos.",
+          "B": "vincular cada movimentação a documento ou autorização, registrando data, item, quantidade, responsável e saldo atualizado.",
+          "C": "apagar o lançamento anterior sempre que houver uma correção, sem conservar o histórico.",
+          "D": "substituir documentos por estimativas feitas de memória pelo responsável pelo almoxarifado."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-29",
+        "number": 29,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao identificar material danificado, deteriorado ou potencialmente obsoleto, o almoxarife deve, em regra,",
+        "options": {
+          "A": "misturá-lo aos itens disponíveis para evitar que a perda seja percebida.",
+          "B": "segregá-lo, identificar a ocorrência, registrar a causa e encaminhar a avaliação de reaproveitamento, devolução ou descarte conforme autorização e procedimento.",
+          "C": "reduzir o saldo no sistema imediatamente, sem registro da ocorrência.",
+          "D": "distribuí-lo primeiro, mesmo que não atenda às condições de uso, para liberar espaço."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-30",
+        "number": 30,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Em relação à gestão de bens móveis e ao patrimônio público, é correto afirmar que",
+        "options": {
+          "A": "caixas de material de consumo devem receber tombamento individual obrigatório, tal como um equipamento permanente.",
+          "B": "um bem móvel permanente deve receber identificação patrimonial compatível com as normas, ser registrado e ter localização e responsabilidade acompanhadas.",
+          "C": "o tombamento é apenas o registro da entrada de qualquer material no estoque.",
+          "D": "a identificação patrimonial somente é necessária quando o bem apresentar defeito."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-31",
+        "number": 31,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Sobre movimentação, transferência, baixa e inventário patrimonial, a conduta adequada é",
+        "options": {
+          "A": "realizar transferências somente por comunicação verbal, pois o bem continua pertencendo ao mesmo Município.",
+          "B": "dar baixa em qualquer bem não localizado, sem apuração ou autorização, para ajustar o inventário.",
+          "C": "formalizar a transferência, atualizar a localização e o responsável; efetuar a baixa apenas com autorização e documentação; e confrontar os registros com a existência física.",
+          "D": "considerar que a baixa patrimonial elimina automaticamente a necessidade de apurar dano ou desaparecimento."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-32",
+        "number": 32,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Na preparação de uma solicitação de compra pública, é procedimento adequado",
+        "options": {
+          "A": "escolher previamente o fornecedor de preferência do setor, independentemente de justificativa.",
+          "B": "indicar a necessidade, a quantidade e a especificação do objeto, realizar pesquisa ou coleta de preços conforme o procedimento aplicável e obter as autorizações necessárias.",
+          "C": "fracionar artificialmente a demanda para evitar qualquer procedimento de contratação.",
+          "D": "encaminhar o pedido diretamente ao fornecedor, sem autorização, para ganhar tempo."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-33",
+        "number": 33,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "No acompanhamento de pedidos e na gestão de fornecedores, espera-se que o almoxarife",
+        "options": {
+          "A": "aguarde o fornecedor informar espontaneamente qualquer atraso, sem manter controle de prazos.",
+          "B": "acompanhe prazos e condições do pedido, registre contatos e ocorrências, confira a entrega e comunique formalmente atrasos ou não conformidades.",
+          "C": "aceite substituição de marca ou especificação sem autorização, desde que o preço seja menor.",
+          "D": "altere unilateralmente a quantidade ou o preço do pedido para facilitar a entrega."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-34",
+        "number": 34,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "A gestão logística e a cadeia de suprimentos, no contexto do almoxarifado, envolvem",
+        "options": {
+          "A": "apenas o transporte interno de caixas, sem relação com compras ou usuários.",
+          "B": "a coordenação do fluxo de materiais e informações entre fornecedores, compras, armazenagem, transporte e unidades requisitantes.",
+          "C": "a eliminação dos registros de estoque para acelerar a movimentação.",
+          "D": "a manutenção de estoques elevados, independentemente da demanda e do prazo de reposição."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-35",
+        "number": 35,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um relatório administrativo de estoque útil e confiável deve, de modo geral,",
+        "options": {
+          "A": "apresentar período de referência, entradas, saídas, saldos, divergências, perdas e providências, com dados rastreáveis.",
+          "B": "informar somente os itens que sobraram, omitindo perdas e divergências.",
+          "C": "ser elaborado apenas quando houver fiscalização externa, sem periodicidade definida.",
+          "D": "substituir os documentos de movimentação, permitindo que os lançamentos sejam feitos posteriormente de memória."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-36",
+        "number": 36,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Ao lidar com fornecedores e requisições, uma conduta alinhada aos princípios básicos da Administração Pública é",
+        "options": {
+          "A": "favorecer fornecedor que tenha relação pessoal com o servidor, se a entrega for urgente.",
+          "B": "dispensar registros quando o valor do material for baixo, pois a publicidade não se aplica ao almoxarifado.",
+          "C": "aplicar critérios impessoais e legais, registrar os atos, preservar a moralidade e buscar eficiência sem privilegiar pessoas ou empresas.",
+          "D": "ocultar uma falha de estoque para evitar que o setor seja responsabilizado."
+        },
+        "correct": "C",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-37",
+        "number": 37,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Para reduzir riscos durante o armazenamento e a movimentação de materiais, é correto",
+        "options": {
+          "A": "transportar cargas pesadas com o tronco torcido, desde que o trajeto seja curto.",
+          "B": "utilizar EPI adequado, respeitar a capacidade de prateleiras e equipamentos, manter corredores desobstruídos e aplicar técnicas ergonômicas de levantamento.",
+          "C": "subir nas prateleiras para alcançar volumes, dispensando escada ou equipamento apropriado.",
+          "D": "armazenar materiais em frente a saídas e equipamentos de emergência quando faltar espaço."
+        },
+        "correct": "B",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-38",
+        "number": 38,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Em uma entrega autorizada, 50 caixas foram recebidas, mas 10 apresentam avarias que comprometem o uso. A medida mais adequada é",
+        "options": {
+          "A": "separar as caixas avariadas, registrar a ocorrência, comunicar a não conformidade e impedir sua distribuição até a decisão competente.",
+          "B": "distribuir todas as caixas e registrar a avaria somente se houver reclamação do usuário.",
+          "C": "descartar as 10 caixas imediatamente, sem laudo, registro ou comunicação.",
+          "D": "substituir as caixas por outro produto disponível, sem consultar o setor requisitante."
+        },
+        "correct": "A",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-39",
+        "number": 39,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Um setor solicita verbalmente a retirada urgente de materiais. Para assegurar o controle de saída, o almoxarife deve",
+        "options": {
+          "A": "entregar os itens e deixar para colher a assinatura no mês seguinte.",
+          "B": "liberar qualquer quantidade, pois a urgência dispensa conferência de saldo.",
+          "C": "registrar a saída apenas quando o setor devolver os materiais não utilizados.",
+          "D": "exigir ou obter a requisição autorizada, conferir saldo e especificação, entregar a quantidade aprovada e atualizar o registro com identificação do recebedor."
+        },
+        "correct": "D",
+        "explanation": [
+          "Releia o enunciado com atenção e elimine as alternativas incompatíveis.",
+          "Compare cada opção com o que o texto ou o cálculo pedem.",
+          "Quando tiver certeza da eliminação, confirme a resposta restante."
+        ]
+      },
+      {
+        "id": "09-almoxarife-superior-40",
+        "number": 40,
+        "section": "Conhecimentos Específicos de Almoxarife",
+        "statement": "Considerando as atribuições de supervisão do almoxarifado, a sequência mais adequada de atuação é",
+        "options": {
+          "A": "conferir a autorização e o pedido, inspecionar quantidade e qualidade, registrar a entrada, armazenar por endereço, expedir somente mediante requisição autorizada, atualizar os controles, tombar bens permanentes e relatar divergências.",
+          "B": "armazenar a mercadoria assim que o veículo chegar, deixando conferência, tombamento e registros para o inventário anual.",
+          "C": "encaminhar todos os materiais diretamente aos setores, sem verificar a nota fiscal, o pedido ou a autorização de saída.",
+          "D": "tombar materiais de consumo, dispensar a inspeção das entregas e corrigir os saldos apenas quando houver falta. ---"
         },
         "correct": "A",
         "explanation": [

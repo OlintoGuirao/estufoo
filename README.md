@@ -25,7 +25,7 @@ npm run preview
 3. Use o canvas de rascunho abaixo da questão (limpar, persistência por questão).
 4. Se errar, aparece o **passo a passo** — a letra correta **não** é revelada; você pode tentar de novo.
 
-Os 10 simulados autorais INDEPAC ficam em `content/simulados/` (fonte em Markdown). Para regenerar os dados do app:
+Os simulados autorais INDEPAC ficam em `content/simulados/` (fonte em Markdown): ACS, Auxiliar de Almoxarife e Almoxarife (Ensino Superior). Para regenerar os dados do app:
 
 ```bash
 node scripts/parse-simulados.mjs
